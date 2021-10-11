@@ -12,16 +12,18 @@ Interested in:
 
 
 The arrival: 
-#“Caminante no hay camino, se hace camino al andar”
+# “Caminante no hay camino, se hace camino al andar”
 
 I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have worked and lived all my life. This first weekend was to settle out, go around the city, explore some typical places and be prepared for class. My feelings are anxiety, surprise, and happiness, preparing for new learnings and the MDEF experience.
 
 The Best: the city multicultural vibe and food.
 The Challenges: Explore the city 
 
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imageintro.jpg)
+
 
 Week 0 - Pre-courses
-#“Todo lo que puede ser imaginado es real”
+# “Todo lo que puede ser imaginado es real”
 
 The pre courses where a nice “excuse” to know my future classmates, with their different backgrounds. Also, a good start for exploring IAAC´s fab lab and the Poblenou’s neighborhood. I liked the fact of being part of a multicultural and international master, where all the conversations start from empathy and trying to discover the other skills, knowledge and attitudes towards life. 
 
@@ -30,21 +32,21 @@ During our pre courses there was a lot of new information about technology, elec
 Assignments:
 
 The Led Circuit (Inputs and Outputs): With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. 
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen led circuit.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenledcircuit.jpg)
    
 Mama is Here (Communicating Design Ideas): design a poster for a random idea. My idea was an app that cooked your own local recipes. This app was for immigrants that wanted to remember a special home dish. 
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen mama is here.png)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmamaishere.png)
      
 Agoraphobia (Communicating Design Ideas): design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
 
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen agoraphobia.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg)
 Here is a link with the final reel: https://www.youtube.com/watch?v=YOFtGCziHsY
 
 The Imperfect Lamp (Fab Lab): design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen lamp 1.jpg)
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen lamp 2.jpg)
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen lamp 3.jpg)
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen lamp 4.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp2.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp3.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp4.jpg)
 
 The Best: Discovering the fab lab machines and our capacity to create almost anything.
 
@@ -61,7 +63,7 @@ The Challenges:
 
 
 Week 1 – Bootcamp
-#“Me gusta la gente sentí pensante, que no separa la razón del corazón”
+# “Me gusta la gente sentí pensante, que no separa la razón del corazón”
 
 This first week was a good start to guide and focus on the expectations of the MDEF, understanding the “why” and purpose of this experience. During this week I have been thinking a lot in my own interests and my past working experience, trying to plan a future road for my professional career.
 
@@ -71,7 +73,7 @@ In my walks around I have been wondering the multicultural city of Barcelona and
 Assignments
 
 What´s My Fight
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/Imagen my fight.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmyfight.jpg)
 Human relationships and the learning that is generated when we share moves me. In general I am a social person, who vibrates with the human encounter. Throughout my life I have been a privileged person in social and educational terms, which has made me discover the lack of learning opportunities that exist in some sectors of my city, my country and the world. I have worked in vulnerable contexts to support children and young people, empower them and create bonds so that they can develop their full potential. 
 My fight is about THE POWER OF HUMAN RELATIONS and how this affects the learning process of people. 
 
@@ -82,8 +84,8 @@ My vision is to generate spaces for human relations and their educational and so
 
 Personal Development Plan
 
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/imagen a1.jpg)
-![](/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/imagen a2.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena1.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena2.jpg)
 
 The Best: 
 All the resources (inhouse and the neighborhood) we have to develop our project. 
