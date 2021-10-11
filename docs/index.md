@@ -19,9 +19,8 @@ I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have 
 The Best: the city multicultural vibe and food.
 The Challenges: Explore the city 
 
-![](mdef-template/docs/images/imageintro.jpg")
-abc
-
+![]
+(mdef-template/docs/images/imageintro.png")
 
 ### Week 0 - Pre-courses:
 ## “Todo lo que puede ser imaginado es real”
@@ -33,21 +32,21 @@ During our pre courses there was a lot of new information about technology, elec
 Assignments:
 
 The Led Circuit (Inputs and Outputs): With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenledcircuit.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenledcircuit.jpg) foto circuito
    
 Mama is Here (Communicating Design Ideas): design a poster for a random idea. My idea was an app that cooked your own local recipes. This app was for immigrants that wanted to remember a special home dish. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmamaishere.png)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmamaishere.png) foto mama is here
      
 Agoraphobia (Communicating Design Ideas): design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg)
-Here is a link with the final reel **(https://www.youtube.com/watch?v=YOFtGCziHsY)**
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg) foto agora
+Here is a link with the final reel **<https://www.youtube.com/watch?v=YOFtGCziHsY>**
 
 The Imperfect Lamp (Fab Lab): design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg)
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp2.jpg)
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp3.jpg)
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp4.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg) foto lamp 1
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp2.jpg) foto lamp 2
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp3.jpg) foto lamp 3
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp4.jpg) foto lamp 4
 
 The Best: Discovering the fab lab machines and our capacity to create almost anything.
 
@@ -74,7 +73,7 @@ In my walks around I have been wondering the multicultural city of Barcelona and
 Assignments
 
 What´s My Fight
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmyfight.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmyfight.jpg) foto myfight
 Human relationships and the learning that is generated when we share moves me. In general I am a social person, who vibrates with the human encounter. Throughout my life I have been a privileged person in social and educational terms, which has made me discover the lack of learning opportunities that exist in some sectors of my city, my country and the world. I have worked in vulnerable contexts to support children and young people, empower them and create bonds so that they can develop their full potential. 
 My fight is about THE POWER OF HUMAN RELATIONS and how this affects the learning process of people. 
 
@@ -85,8 +84,8 @@ My vision is to generate spaces for human relations and their educational and so
 
 Personal Development Plan
 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena1.jpg)
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena2.jpg)
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena1.jpg) foto asignment 1
+![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena2.jpg) foto asignment 2
 
 The Best: 
 All the resources (inhouse and the neighborhood) we have to develop our project. 
