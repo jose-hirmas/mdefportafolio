@@ -1,5 +1,11 @@
 ## HOLA
 
-I am José Hirmas.
+I am José Hirmas Stark. Chilean. Social entrepreneur. Business designer. Educator.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Grandson of immigrants: Palestinian descent from my father, Hungarian from my mother. 
+
+Interested in: 
+-	the power of human relationships for educational development and justice
+-	designing business projects that generate positive social outcomes
+-	theater and acting as a communicational tool for developing your attitude
+-	good food and craft beer taster
