@@ -19,8 +19,8 @@ I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have 
 The Best: the city multicultural vibe and food.
 The Challenges: Explore the city 
 
-<img src="imageintro.jpg">
-prueba
+<img src="/Users/josehirmas/Desktop/MDEF /MDEF website/mdef-template/docs/images/imageintro.jpg">
+prueba1
 
 
 ### Week 0 - Pre-courses:
@@ -41,7 +41,7 @@ Mama is Here (Communicating Design Ideas): design a poster for a random idea. My
 Agoraphobia (Communicating Design Ideas): design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg)
-Here is a link with the final reel: https://www.youtube.com/watch?v=YOFtGCziHsY
+Here is a link with the final reel **(https://www.youtube.com/watch?v=YOFtGCziHsY)**
 
 The Imperfect Lamp (Fab Lab): design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg)
