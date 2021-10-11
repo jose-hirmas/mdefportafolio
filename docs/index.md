@@ -1,4 +1,4 @@
-## Hola! Te contaré una historia...
+# Hola! Te contaré una historia...
 
 I am José Hirmas Stark. Chilean. Social entrepreneur. Business designer. Educator.
 
@@ -11,8 +11,8 @@ Interested in:
 -	good food and craft beer taster
 
 
-The arrival: 
-# “Caminante no hay camino, se hace camino al andar”
+### The arrival: 
+## “Caminante no hay camino, se hace camino al andar”
 
 I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have worked and lived all my life. This first weekend was to settle out, go around the city, explore some typical places and be prepared for class. My feelings are anxiety, surprise, and happiness, preparing for new learnings and the MDEF experience.
 
@@ -22,8 +22,8 @@ The Challenges: Explore the city
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imageintro.jpg)
 
 
-Week 0 - Pre-courses
-# “Todo lo que puede ser imaginado es real”
+### Week 0 - Pre-courses:
+## “Todo lo que puede ser imaginado es real”
 
 The pre courses where a nice “excuse” to know my future classmates, with their different backgrounds. Also, a good start for exploring IAAC´s fab lab and the Poblenou’s neighborhood. I liked the fact of being part of a multicultural and international master, where all the conversations start from empathy and trying to discover the other skills, knowledge and attitudes towards life. 
 
@@ -62,8 +62,8 @@ The Challenges:
 -	Printing in a 3D printer and using laser cutting machine
 
 
-Week 1 – Bootcamp
-# “Me gusta la gente sentí pensante, que no separa la razón del corazón”
+### Week 1 – Bootcamp:
+## “Me gusta la gente sentí pensante, que no separa la razón del corazón”
 
 This first week was a good start to guide and focus on the expectations of the MDEF, understanding the “why” and purpose of this experience. During this week I have been thinking a lot in my own interests and my past working experience, trying to plan a future road for my professional career.
 
