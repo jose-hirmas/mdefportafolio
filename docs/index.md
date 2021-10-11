@@ -19,7 +19,8 @@ I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have 
 The Best: the city multicultural vibe and food.
 The Challenges: Explore the city 
 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imageintro.jpg)
+<img src="imageintro.jpg">
+prueba
 
 
 ### Week 0 - Pre-courses:
