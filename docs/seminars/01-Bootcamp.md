@@ -5,8 +5,7 @@ hide:
 
 # Bootcamp
 
-### Week 1 – Bootcamp:
-## “Me gusta la gente sentí pensante, que no separa la razón del corazón”
+### “Me gusta la gente sentí pensante, que no separa la razón del corazón”
 
 This first week was a good start to guide and focus on the expectations of the MDEF, understanding the “why” and purpose of this experience. During this week I have been thinking a lot in my own interests and my past working experience, trying to plan a future road for my professional career.
 
