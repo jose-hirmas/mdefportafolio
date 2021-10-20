@@ -11,22 +11,21 @@ The pre courses where a nice “excuse” to know my future classmates, with the
 
 During our pre courses there was a lot of new information about technology, electronics design, softwares and the use of machines which I have never been up to, which puts me in a challenge to learn these techniques.
 
-### Assignments:
 
-*The Led Circuit (Inputs and Outputs)* 
+**The Led Circuit (Inputs and Outputs)** 
 With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenledcircuit.jpg)
    
-*Mama is Here (Communicating Design Ideas)*
+**Mama is Here (Communicating Design Ideas)**
  Design a poster for a random idea. My idea was an app that cooked your own local recipes. This app was for immigrants that wanted to remember a special home dish. 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmamaishere.png)
      
-*Agoraphobia (Communicating Design Ideas)*
+**Agoraphobia (Communicating Design Ideas)**
 Design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg)
 Here is a link with the final reel **<https://www.youtube.com/watch?v=YOFtGCziHsY>**
 
-*The Imperfect Lamp (Fab Lab)*
+**The Imperfect Lamp (Fab Lab)**
 design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg)
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp2.jpg) 
