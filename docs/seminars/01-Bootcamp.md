@@ -11,8 +11,6 @@ This first week was a good start to guide and focus on the expectations of the M
 
 In my walks around I have been wondering the multicultural city of Barcelona and how all the people enjoy open public spaces. The life happens in parks, public spaces and in the street, where the sense of community is palpable. 
           
-          
-### Assignments
 
 **What´s My Fight**
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmyfight.jpg)
@@ -29,6 +27,7 @@ My vision is to generate spaces for human relations and their educational and so
 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena1.jpg) 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena2.jpg) 
+
 
 #### The Best: 
 All the resources (inhouse and the neighborhood) we have to develop our project. 
