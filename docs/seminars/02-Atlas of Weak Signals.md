@@ -5,9 +5,12 @@ hide:
 
 # Atlas of Weak Signals
 
-### frase celebre acá
+## frase celebre acá
 
 The weak signals I chose are “Emotional Design” and “Maker Education”, this is because I have interests in the relationship and interactions between human beings and how emotions play a role in the social educational development. For me, traditional education is obsolete in latam and the world. I have been making classes in public rural schools back in Chile, where I have evidence the importance of bonding between students and teacher-student, for their integral formation. Also interested in how learning by doing and gamification can be an excellent tool for children´s integration. 
+
+
+*Weak Signals: Emotional Design and Maker Education*
 
 ![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/emotionaldesignws.png)
 I believe that emotions are present in every interaction between humans and their environment. Also that the main issues we are facing are because we need to deeply understand what we are feeling and what others also feel. I am really interested in exploring how human emotions can be sustained as a main “city developer”. We don´t talk about feelings because we get embarrassed, but we always feel things. The challenge is how we get conscious about our own feelings and emotions, and how we can manage to know new people´s emotions to understand how body, brain and soul are connected. 
@@ -18,7 +21,9 @@ The learning process is not about theorical and technical skills, but how we can
 
 During this week I have been exploring myself emotions since I wake up until I go to sleep in the night, being aware of every design experience I had the opportunity to be in. 
 
-The hike of emotions: we went on a hiking experience for developing the multiscalar diagram On this adventure I decided to pay attention to my emotions during all day.
+*Multiscalar Diagram: The Hike of Emotions*
+
+We went on a hiking experience for developing the multiscalar diagram On this adventure I decided to pay attention to my emotions during all day.
 
 1.  When getting to the Metro station on time: anxiety and a bit of stress because i as a bit late
 2.  We started de hike joining all together next to a olive tree which is a safe place for me because this is the tree that represents my family. My emotions: safety and comfort.
@@ -26,10 +31,6 @@ The hike of emotions: we went on a hiking experience for developing the multisca
 4.  In one part of the hike we had to get in silence and the atmosphere changed. We enter “the forest” in a really quite mood. There I felt peace and freedom emotions. Also the climate change and it was colder. ¿How do climate changes make you feel?
 5.  We get to the top and had an amazing view of almost all Barcelona. For the first time I had a sense of dimensions of the city, seeing everything from a different perspective (“looking from the balcony”). I felt small and humble and, in a way, big enough for trying to solve some cities issues. My emotions were dragged to motivation and empowerment. 
 6.  All the way to the top and going down we were also in a happy and exploring mood. My classmates have a nice attitude, so we can talk and go knowing each other more. For me, it is important the relations that we have early constructed with the group, each one with their own backgrounds, cultures, thoughts, and ways of seeing life. We are in a journey together but living it at our own pace. 
-
-This is my multiscalar diagram:
-
-
 
 Some questions and notes I have in different scales:
 
@@ -40,7 +41,6 @@ Some questions and notes I have in different scales:
 -   The city can be transformed into a big playing surface.
 -   The sense of community is vital for social development
 -   We need to bond education and emotions.
-
 
 
 For the collaborative diagram I was amazed with the education issues and thoughts that some of my classmates have, that are really attached to my own beliefs. This make me think that I all not alone on this quest.  I liked the concept of “cross generation” and “a playground for everyone”.
@@ -58,6 +58,18 @@ Experiment I will like to make:
 A new skill for my personal development plan: 
 -   learning to fail and trying to focus.
 -   Unlearning to learn.
+
+### The best: 
+the amazing view from the top of the mountain.
+
+### The Lessons Learned:
+- Our classmates are usefull resources. 
+- Colaboration is relevant for the development of my project. 
+
+### The challenges:
+- Change my mindset to exploration and observation in every day.
+
+
 
 
 
