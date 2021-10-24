@@ -2,7 +2,9 @@
 
 ![](../images/perezoso.jpg)
 
-I am José Hirmas Stark. Chilean. Social entrepreneur. Business designer. Educator.
+I am José Hirmas Stark. Born in Santiago de Chile (1987)
+
+Chilean. Social entrepreneur. Business designer. Educator.
 
 Grandson of immigrants: Palestinian descent from my father, Hungarian from my mother. 
 
@@ -21,4 +23,5 @@ I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have 
 The Best: the city multicultural vibe and food.
 The Challenges: Explore the city 
 
-![](mdef-template/docs/images/imageintro.jpg)
+![](..images/imageintro.jpg)
+
