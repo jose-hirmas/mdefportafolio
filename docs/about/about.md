@@ -1,7 +1,6 @@
 # About
 
 
-
 I am José Hirmas Stark. Born in Santiago de Chile (1987)
 Chilean. Social entrepreneur. Business designer. Educator.
 
