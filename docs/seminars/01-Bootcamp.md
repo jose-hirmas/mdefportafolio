@@ -5,7 +5,7 @@ hide:
 
 # Bootcamp
 
-## “Me gusta la gente sentí pensante, que no separa la razón del corazón”
+> ## “Me gusta la gente sentí pensante, que no separa la razón del corazón”
 
 This first week was a good start to guide and focus on the expectations of the MDEF, understanding the “why” and purpose of this experience. During this week I have been thinking a lot in my own interests and my past working experience, trying to plan a future road for my professional career.
 
@@ -13,20 +13,24 @@ In my walks around I have been wondering the multicultural city of Barcelona and
           
 
 **What´s My Fight**
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmyfight.jpg)
+
+![](../images/week01/Imagen-myfight.jpg)
 
 Human relationships and the learning that is generated when we share moves me. In general I am a social person, who vibrates with the human encounter. Throughout my life I have been a privileged person in social and educational terms, which has made me discover the lack of learning opportunities that exist in some sectors of my city, my country and the world. I have worked in vulnerable contexts to support children and young people, empower them and create bonds so that they can develop their full potential. 
 My fight is about THE POWER OF HUMAN RELATIONS and how this affects the learning process of people. 
 
-Design vision of how our (social) world could be in the (near) future:
+**Design vision of how our (social) world could be in the (near) future:**
 
 My vision is to generate spaces for human relations and their educational and social development, empowering in the need of being part of something, accepting each others realities, empathizing, sharing and creating community as a main concept.
 
 
 **Personal Development Plan**
 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena1.jpg) 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/imagena2.jpg) 
+![](../images/week01/imagen a1.jpg) 
+
+**What I want to learn and develop?**
+
+![](../images/week01/imagen a2.jpg) 
 
 
 #### The Best: 

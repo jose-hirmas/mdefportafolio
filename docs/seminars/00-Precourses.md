@@ -5,7 +5,7 @@ hide:
 
 # Precourses
 
-## “Todo lo que puede ser imaginado es real”
+> ## “Todo lo que puede ser imaginado es real”
 
 The pre courses where a nice “excuse” to know my future classmates, with their different backgrounds. Also, a good start for exploring IAAC´s fab lab and the Poblenou’s neighborhood. I liked the fact of being part of a multicultural and international master, where all the conversations start from empathy and trying to discover the other skills, knowledge and attitudes towards life. 
 
@@ -13,24 +13,29 @@ During our pre courses there was a lot of new information about technology, elec
 
 
 **The Led Circuit (Inputs and Outputs)** 
-With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenledcircuit.jpg)
+With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. }
+
+![](../images/week01/Imagen led circuit.jpg)
    
 **Mama is Here (Communicating Design Ideas)**
  Design a poster for a random idea. My idea was an app that cooked your own local recipes. This app was for immigrants that wanted to remember a special home dish. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenmamaishere.png)
+
+![](../images/week01/Imagen mama is here.jpg)
      
 **Agoraphobia (Communicating Design Ideas)**
 Design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenagoraphobia.jpg)
+
+![](../images/week01/Imagen agoraphobia.jpg)
+
 Here is a link with the final reel **<https://www.youtube.com/watch?v=YOFtGCziHsY>**
 
 **The Imperfect Lamp (Fab Lab)**
 design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp1.jpg)
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp2.jpg) 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp3.jpg) 
-![](/Users/josehirmas/Desktop/MDEF/MDEFwebsite/mdef-template/docs/images/Imagenlamp4.jpg) 
+
+![](../images/week01/Imagen lamp 1.jpg)
+![](../images/week01/Imagen lamp 2.jpg) 
+![](../images/week01/Imagen lamp 3.jpg) 
+![](../images/week01/Imagen lamp 4.jpg) 
 
 
 #### The Best: 
