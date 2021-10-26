@@ -37,7 +37,7 @@ I choose to make **Choripan con Pebre**: this is a traditional Chilean informal 
 ![](../images/designstudio/pebre.jpg)
 
 The day of the experiment almost all the class participated, many exciting faces and positive comments about the idea. There was a lot of different food!
-![](../images/designstudio/falta.jpg)
+
 
 Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience.
 
