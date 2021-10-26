@@ -23,7 +23,7 @@ During our pre courses there was a lot of new information about technology, elec
 
 
 **The Led Circuit (Inputs and Outputs)** 
-With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong. }
+With the electronics kit, we had to develop a led project which consisted in a game where you had to chose some letters and the light turned on green or red depending if you where right or wrong.
 
 ![](../images/week01/Imagen led circuit.jpg)
    
