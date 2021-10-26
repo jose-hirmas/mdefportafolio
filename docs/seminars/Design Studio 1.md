@@ -34,7 +34,7 @@ I invited everyone in the class to bring their foods to share with these indicat
 ![](../images/designstudio/invitation.jpg)
 
 I choose to make **Choripan con Pebre**: this is a traditional Chilean informal dish that we use to eat in barbeques, when gathering with friends and for celebrating important dates (such as the Independence Day). The plate is composed of: Bread, Chorizo, and the sauce called pebre has tomato, onion and cilantro.
-![](../images/designstudio/Pebre.jpg)
+![](../images/designstudio/pebre.jpg)
 
 The day of the experiment almost all the class participated, many exciting faces and positive comments about the idea. There was a lot of different food!
 ![](../images/designstudio/falta.jpg)
