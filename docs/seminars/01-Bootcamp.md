@@ -44,6 +44,6 @@ All the resources (inhouse and the neighborhood) we have to develop our project.
 
 #### The Challenges:
 -   Documentation of my master process
--   Use grit for my webpage 
+-   Use git for my webpage 
 
 
