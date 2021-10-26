@@ -12,11 +12,9 @@ The weak signals I chose are “Emotional Design” and “Maker Education”, t
 
 **Weak Signals: Emotional Design and Maker Education**
 
-![](../images/week2/emotional design.jpg)
+![](../images/week2/wsignals.jpg)
 
 I believe that emotions are present in every interaction between humans and their environment. Also that the main issues we are facing are because we need to deeply understand what we are feeling and what others also feel. I am really interested in exploring how human emotions can be sustained as a main “city developer”. We don´t talk about feelings because we get embarrassed, but we always feel things. The challenge is how we get conscious about our own feelings and emotions, and how we can manage to know new people´s emotions to understand how body, brain and soul are connected. 
-
-![](../images/week2/maker education.jpg)
 
 The learning process is not about theorical and technical skills, but how we can use in the real world all the tools we develop. I like the doing as the best and more effective way to really explore, discover and learn. Since school I have been not a traditional student, I coud not sit in a chair and just listen teachers, always being hyperkinetic and having attention deficit (ADHD) was really a challenge when going to a traditional school and education. Also during my life I have managed to realize that the best way of learning for me was by doing things on my own. The concept of maker is attached to the capacity of creation that we humans are able to. Understanding humans as makers is also seeing us creators, discoverers, imagining new Futures and trying the best ways. Also, to accept that we are not perfect in anyway and that making mistake is not a bad thing, but a way to discover yourself, gain knowledge, and explore the world.
 
@@ -56,6 +54,7 @@ We went on a hiking experience for developing the multiscalar diagram On this ad
 6.  All the way to the top and going down we were also in a happy and exploring mood. My classmates have a nice attitude, so we can talk and go knowing each other more. For me, it is important the relations that we have early constructed with the group, each one with their own backgrounds, cultures, thoughts, and ways of seeing life. We are in a journey together but living it at our own pace. 
 
 ![](../images/week2/hike 5.jpg)
+
 
 Some questions and notes I have in different scales:
 

@@ -30,7 +30,7 @@ With the electronics kit, we had to develop a led project which consisted in a g
 **Mama is Here (Communicating Design Ideas)**
  Design a poster for a random idea. My idea was an app that cooked your own local recipes. This app was for immigrants that wanted to remember a special home dish. 
 
-![](../images/week01/Imagen mama is here.jpg)
+![](../images/week01/mamaishere.jpg)
      
 **Agoraphobia (Communicating Design Ideas)**
 Design a reel for a random object, spirit and segment. The spirit was “agoraphobia”, the segment was “researchers” and the object that we choose was this one:
@@ -42,10 +42,7 @@ Here is a link with the final reel **<https://www.youtube.com/watch?v=YOFtGCziHs
 **The Imperfect Lamp (Fab Lab)**
 design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 
 
-![](../images/week01/Imagen lamp 1.jpg)
-![](../images/week01/Imagen lamp 2.jpg) 
-![](../images/week01/Imagen lamp 3.jpg) 
-![](../images/week01/Imagen lamp 4.jpg) 
+![](../images/week01/lampfoto.jpg)
 
 
 #### The Best: 
