@@ -47,6 +47,20 @@ Meanwhile everyone was eating and sharing I made some short interviews just to k
 -   Food produces happines ? I will have to explore types of food and what produces in organism (serotonine, dopamine).
 - Many people asked me if we are going to repeat this experience, as a tradition. 
 
+**My Interests**
+
+After sharing interests with my classmates, we were grouped together in "Unlearning to Learn", talk about experiments, ideas and new "to do things". It was very good seeing the touchpoints we have with each other:
+
+![](../images/designstudio/newgroupmiro.jpg)
+
+![](../images/designstudio/myinterests.jpg)
+
+
+
+
+
+
+
 
 
 
