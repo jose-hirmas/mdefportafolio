@@ -43,7 +43,7 @@ the experimentation and DIY tools we used. Also, i loved the world of bees.
 - Explore biomimesis
 - Do more experiments of cooking some biomaterials.
 - Read scientific papers for the "truth"
-- Plant something in house.
+- Grow something in house.
 
 
 
