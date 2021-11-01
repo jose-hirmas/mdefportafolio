@@ -54,7 +54,8 @@ After sharing interests with my classmates, we were grouped together in "Unlearn
 
 ![](../images/designstudio/myinterests.jpg)
 
-This week I get really empowered with Ron Wakkary's seminar about post human centered design, specially with the concept of *design with* which makes me wonder about how my design project has to be developed with relationality between humans and things. 
+
+This week I get really empowered with Ron Wakkary's seminar about post human centered design, specially with the concept of **"design with"** which makes me wonder about how my design project has to be developed with relationality between humans and things. 
 
 We don´t design alone, we need to negiotate with others.
 
