@@ -38,7 +38,7 @@ I started this personal project with the idea of fabricating a piece of furnitur
 
 The first thing after deciding to do a chair was thinking about materials and the type of chair, but before that I decided that the chair was not for me, but for someone special. This chair would be for my just borned goddaughter that is in Chile. This was a point of inflection for the design process, putting a meaningfull objective for the challenge.
 
-I relate this to emotional design and how things provoke emotions on humanbeings. So "simplicity", "cozy" were some concepts for the design, and the main material would be wood. 
+I relate this to emotional design and how things provoke emotions on humanbeings. "Simplicity" and"cozy" were some concepts for the design, and the main material would be wood. 
 
 I present you a design drawing of "Silla Lourdes":
 ![](../images/week5/dibujosilla.jpg)
