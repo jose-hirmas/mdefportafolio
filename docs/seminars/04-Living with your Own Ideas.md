@@ -5,26 +5,32 @@ hide:
 
 # Living with Your Own Ideas
 
-> 
+> ## "Every great design begins with an even better story "
 
 
-**The Magic Machines Workshop**
+### The Magic Machines Workshop
 
-The first assignment was to draw ourselves in a sheet. This will be the user or segment of the creation we were going to do. After we had to create "something" with some materials we gathered that were in desuse. My creation is *a roller coaster* and in the middle there is a figure of a human being.
+The first assignment was to draw ourselves in a sheet. This will be the user or segment of the creation we were going to do. After we had to create "something" with some materials we gathered that were in desuse. 
+
+My magic machine is **a roller coaster** and in the middle there is a figure of a human being.
+
 ![](../images/week5/rollercoaster.jpg)
 
+At first I just starting using some materials that were on top of the table, without knowing what I was doing. I started mixing some discard coffe and a piece of cardboard, and after some time using my hands and exploring the materials some ideas come to my head. I thought about seeing and feeling from different perspectives, so the rollercoaster represents these different points of views and also how emotions change depending on what experience you are living. The rollercoaster never ends, is circular and does not have a "start" or "finish" point, so this is related to cycles in life. The person in the middle represents myself and the bravery to be in the middle of this cycles, exploring open minded and trying to see beyond. 
 
+Some insight that happen during the workshop is that each time I verbally presented my magic machine, I changed or complement my description with more information and thoughts, so when communitating I find new ideas and ways of understanding my own creation. 
 
+After sharing with the group we get to some relationships between magic machines:
+- Cycles: we made circular machines and the meaning of **living cycles** was shared.
+- Everyone represented the need of **"looking for something new"**.
+- The different magic machines showed **many possibilites** about emotions, decision making, ways of being, languages, growing plants. 
+- We talked about the concept of **Perception of freedom** as a way of percieving options and possibilites towards life and day living. 
 
+![](../images/week5/grupomagicmachines.jpg)
 
+### Emotional Fabrication
 
-
-
-
-
-**Emotional Fabrication**
-
-I decided to design and fabricate a chair, using only what I have at home and trying to do it all by myself. I have never fabricated any furniture (*learning something new*) and also one of my challenges for my new me is to "become a maker" of things (*the first day of my new life*).
+I decided to design and **fabricate a chair**, using only what I have at home and trying to do it all by myself. I have never fabricated any furniture (*learning something new*) and also one of my challenges for my new me is to "become a maker" of things (*the first day of my new life*).
 
 - What did I make? And why did it matter?
 
@@ -61,48 +67,44 @@ I am interested in emotional design, maker education, sharing with others and so
 
 I enjoyed this experience and to see the resume videos of all my classmates makes me know them in a more deeper way. Each one with their own ideas and styles, similar purposes and causes, but different point of views. 
 
-Here you can see my resume video of the experience:
-**<https://www.youtube.com/watch?v=_C4YmmYX1FQ>**
+Here you can see my resume video of the experience: **<https://www.youtube.com/watch?v=_C4YmmYX1FQ>**
 
 
-***Autoethnography***
+### Autoethnography
 
-1. Study Boundaries
+1. Study Boundaries:
 One day to design and fabricate furniture using my own materials.
 
-2. Authenticity
+2. Authenticity:
 Design and fabrication for someone special for me. My new me is about "being a maker", and the excitment of learning someting new. Sense of achievement.
 
-3. Plausability or Scholarship
+3. Plausability or Scholarship:
 Emotional design, distributed design, maker education.
 
-4. Criticality
+4. Criticality:
 Using hands and fabrication tools, asking for help, feeling part of a maker community, investigation about designing wood objects.
 
-5. Self Revealing Communication
+5. Self Revealing Communication:
 Making the video for a third person puts me out of my 1PP, so there is a dilemma when documentating the process. 
 
-6. Ethnographic material with Confessional Content
+6. Ethnographic material with Confessional Content:
 Over thinking (too much head) and the difficulty of making decisions. 
 
-7. Generalizability
+7. Generalizability:
 The possibility of fabricating your own things and designing for others: family and friends that are away can recieve your gifts. The feeling of giving and recieving.
 
 
 #### The best: 
-The opportuniy of doing without pre-thinking. 
+The opportunity of doing without pre-thinking. 
 
 #### The Lessons Learned:
 - Any creative action is always situated.
-- X
-- X
-- X 
-- X
+- The magic machines methodology is good for activing your imagination because you enter without knowing what you are doing and the process starts making sense and ideas appear and thoughts organize.
+- Design simple in a way that is understandable for all. Do not get "in love" with your ideas,be open minded to recieve feedback, and have the courage to change.
+- Ask for help when needed: the maker space is a community when everyone can help you. 
 
 #### The challenge:
-Finish the chair and continue fabricating things
-
-
+Finish the chair and continue fabricating things.
 
 
 
