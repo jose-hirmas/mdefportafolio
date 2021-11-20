@@ -60,6 +60,11 @@ This week I get really empowered with Ron Wakkary's seminar about post human cen
 We don´t design alone, we need to negiotate with others.
 
 
+**Documentation beyond Presentation**
+
+When documenting we represent the world with our own perception. In this way, documentation is not apart from our 1PP but is part of the process. 
+
+Through my experience, I have been with "my senses open to exploration", 
 
 
 
