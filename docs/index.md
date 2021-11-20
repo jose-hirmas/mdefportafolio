@@ -1,6 +1,6 @@
 
 
 
-# La bitácora de José
+# bitácora - José Hirmas Stark
 
-## Documentation of the experience during the Master in Design for Emergent Futures 2021/2022
+## Master in Design for Emergent Futures 2021/2022
