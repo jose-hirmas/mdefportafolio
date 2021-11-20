@@ -41,7 +41,7 @@ the experimentation and DIY tools we used. Also, i loved the world of bees.
 - the importance of the hypothesis when doing experiments.
 - "design with" the concept shared by Ron Wakkary
 - understand microrganisms to understand cultural evolution.
--  New definition of life: any piece of information that can perpetuate itself.
+- New definition of life: any piece of information that can perpetuate itself.
 
 #### The challenges:
 - Explore biomimesis
@@ -52,20 +52,23 @@ the experimentation and DIY tools we used. Also, i loved the world of bees.
 
 #### Submissions: 
 
-**Creating a Mutant (Hypothetical Designed Organism description)**
+**Research Paper Synopsis**
+
+Biodegradation of Polyester Polyurethane by Endophytic Fungi:
+This paper is about the ability of some fungi species to breakdown types of plastic, specifically the synthetic polymer polyester polyurethane. This research was made with plant sampling of different species of the Amazonian forest, demonstrating that Endophytic Fungi can degradate PUR. This type of fungi is found in almost every plant in the world without causing symptoms of disease, so it might be a promising source of biodiversity in which to test for activities important for bioremediation.
+
+Full research paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165411/pdf/zam6076.pdf>
+
+
+**Creating a Mutant (hypothetical designed organism description)**
 
 Each year, more than 50.000 tons of new and used clothes arrive to Chile from every part of the world. The problem is that all this unselled clothes is being dumped on the Atacama desert, producing real clothing graveyards, which is harmfull for the environment. 
 
-![](../images/week34/ropadesierto.jpg)
-(Photograph by Martin Bernetti/ AFP via Getty Images)
+![](../images/week34/fotomutante.jpg)
 
 How can we make these clothes dissapear? There is a insect, the moth, that literally feeds with animal fibers, specially wool, fur, silk, feathers, felt and leather. Imagine a "mutant moth" that could eat any type of synthetic fabric. The bacterias that eat nylon and poliester have a polyurethanase-protease enzyme that can biodegradate the poliester.
-![](../images/week34/polilla.jpg)
 
-Also, a long term answer has relationship with the process of fabrication and the materials we used. Almost all the fabric produced is not biodegradable and has many chemical products. Awareness about the fashion and clothing industry (fast fashion) is crucial.
-
-
-**Research Paper Synopsis**
+Also, a long term solution has relationship with the process of fabrication and the materials we used. Almost all the fabric produced is not biodegradable and has many chemical products. Awareness about the fashion and clothing industry (fast fashion) is crucial.
 
 
 
