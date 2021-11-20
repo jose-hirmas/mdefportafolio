@@ -64,9 +64,10 @@ Full research paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165411/pdf/z
 
 Each year, more than 50.000 tons of new and used clothes arrive to Chile from every part of the world. The problem is that all this unselled clothes is being dumped on the Atacama desert, producing real clothing graveyards, which is harmfull for the environment. 
 
+***How can we make these clothes dissapear?*** There is a insect, the moth, that literally feeds with animal fibers, specially wool, fur, silk, feathers, felt and leather. Imagine a "mutant moth" that could eat any type of synthetic fabric. The bacterias that eat nylon and poliester have a polyurethanase-protease enzyme that can biodegradate the poliester.
+
 ![](../images/week34/fotomutante.jpg)
+Picture 1 (aerial): clothes in Atacama desert. Picture 2 (closeup): moth. Picture 3 (microscope): bacteria digesting the plastic.
 
-How can we make these clothes dissapear? There is a insect, the moth, that literally feeds with animal fibers, specially wool, fur, silk, feathers, felt and leather. Imagine a "mutant moth" that could eat any type of synthetic fabric. The bacterias that eat nylon and poliester have a polyurethanase-protease enzyme that can biodegradate the poliester.
-
-Also, a long term solution has relationship with the process of fabrication and the materials we used. Almost all the fabric produced is not biodegradable and has many chemical products. Awareness about the fashion and clothing industry (fast fashion) is crucial.
+A long term solution is directly related to the process of fabrication and the materials we used. Almost all the fabric produced is not biodegradable and has many chemical products. Awareness about the fashion and clothing industry (fast fashion) is crucial.
 
