@@ -70,26 +70,3 @@ How can we make these clothes dissapear? There is a insect, the moth, that liter
 
 Also, a long term solution has relationship with the process of fabrication and the materials we used. Almost all the fabric produced is not biodegradable and has many chemical products. Awareness about the fashion and clothing industry (fast fashion) is crucial.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
