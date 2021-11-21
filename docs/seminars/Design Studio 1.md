@@ -38,7 +38,7 @@ I choose to make **Choripan con Pebre**: this is a traditional Chilean informal 
 The day of the experiment almost all the class participated, many exciting faces and positive comments about the idea. There was a lot of different food!
 ![](../images/designstudio/lunch.jpg)
 
-Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. In this link you can see a resumed video of the experiment: **<https://www.youtube.com/watch?v=qH2-d3UDoYI>**
+Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. In this link you can see a resumed video of the experiment: <https://www.youtube.com/watch?v=qH2-d3UDoYI>
 
 #### Conclusions:####
 -   Everyone related their food to some special memory of their local town/city. It was surprising that almost everyone brought something of their country.
@@ -72,21 +72,9 @@ I am experimenting in the documentation process by paying attention to the words
 
 The text input is cronologically captured transforming sentences into small "quote stories". Each sentence has a choosen word or concepts that is used for making a final quote of the story. 
 
-The result is an abstract, deep and poetic quote summarizing the documentation process.
+The result is an abstract, deep and poetic set of quotes summarizing the documentation process.
 
-In this link you can see *"Words that Create Realities"*: <https://www.youtube.com/watch?v=oPLxU-qrUXc>
-
-
-
-
-
-
-
-
-
-
-
-
+In this link you can see the video ***"Words that Create Realities"***: <https://www.youtube.com/watch?v=oPLxU-qrUXc>
 
 
 
