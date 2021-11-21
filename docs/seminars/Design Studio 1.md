@@ -70,15 +70,14 @@ I am experimenting in the documentation process by paying attention to the words
 
 ![](../images/designstudio/frases.jpg)
 
-The text input is cronologically captured transforming sentences into small "quote stories". Each sentence has a choosen word or concepts that is used for making a final quote of the story. 
+The text input is cronologically captured transforming sentences into small "quote stories". Each sentence has a choosen word or concept that is used for making a final quote of the story. 
 
-The result is an abstract, deep and poetic set of quotes summarizing the documentation process.
+The result is an abstract, deep and poetic set of quotes summarizing the documentation process
 
-In this link you can see the video ***"Words that Create Realities"***: <https://www.youtube.com/watch?v=oPLxU-qrUXc>
+In this link you can see the video ***"Words that Create Realities"***: 
+<https://www.youtube.com/watch?v=oPLxU-qrUXc>
 
-
-
-
+The video shows 7 different "quote stories", each one is an act that can be interpreted in any way. Sound is used as a complementary tool to guide the viewer and help in the imagination of new realities. 
 
 
 
