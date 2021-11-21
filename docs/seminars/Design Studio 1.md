@@ -64,7 +64,25 @@ We don´t design alone, we need to negiotate with others.
 
 When documenting we represent the world with our own perception. In this way, documentation is not apart from our 1PP but is part of the process. 
 
-Through my experience, I have been with "my senses open to exploration", 
+Through my experience, I have been with "my senses open for exploration". The tools I am using to document are very simple: notebook, pen and phone (for pictures and videos). In my notebook I use to make visual maps of the concepts and ideas. 
+
+I am experimenting in the documentation process by paying attention to the words and concepts that everyone use in my sorroundings. This has make me focus in language and word usage to understand what is happening around. I am using my notebook to write the exact sentences of the concepts and ideas that I want to capture. So everyday I have between 5 - 20 phrases of people (including my own sentences). This sentences are transformed into quotes. 
+
+![](../images/designstudio/frases.jpg)
+
+The text input is cronologically captured transforming sentences into small "quote stories". Each sentence has a choosen word or concepts that is used for making a final quote of the story. 
+
+The result is an abstract, deep and poetic quote summarizing the documentation process.
+
+In this link you can see *"Words that Create Realities"*: <https://www.youtube.com/watch?v=oPLxU-qrUXc>
+
+
+
+
+
+
+
+
 
 
 
