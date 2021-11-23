@@ -79,5 +79,10 @@ In this link you can see the video ***"Words that Create Realities"***:
 
 The video shows 7 different "quote stories", each one is an act that can be interpreted in any way. Sound is used as a complementary tool to guide the viewer and help in the imagination of new realities. 
 
+Insights of this experience:
+- Context always affects the words and sense of language. Sound is a complementary tool for creating new realities.
+- Writing notes is not efficient for capturing all the moments, but it makes me aware of every single word. When writing a note you inmediatelly take the phrase of its context and can play with it. 
+- Organizing the documentation as a theater act (actor and producer) is a good way of self-communication and made me understand better the personal process in first person perspective.
+
 
 
