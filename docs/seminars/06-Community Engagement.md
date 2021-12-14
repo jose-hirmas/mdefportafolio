@@ -3,20 +3,22 @@ hide:
     - toc
 ---
 
-# Community Engagement (NO LISTO)
+# Community Engagement
 
-> ## " We are all actors: being a citizen is not living in society, it is changing it. "
+> ## " We are all actors: being a citizen is not living in society, it is changing it."
 
 During this week we started situating our research and understanding the "social body", with a practical approach:
 
 ### Look Around : My Call vs What is Emerging
 
-*What is urgently waiting to be born in the world?*
+**What is urgently waiting to be born in the world?**
+
 - Communication and understanding (empathy)
 - Acceptance of difference
 - Belief and construction of places we are all part of (sense of community)
 
-*What evidences can I find around me supporting the urgency?*
+**What evidences can I find around me supporting the urgency?**
+
 - Immigrants are not allowed
 - We don´t talk about how we are (emotions and feelings)
 - Loneliness and depression
@@ -24,7 +26,8 @@ During this week we started situating our research and understanding the "social
 - Economic growth vs Sustainability
 - Lack of education opportunities and justice for all.
 
-*Which glimpses can I find in the present of those futures waiting to be born?*
+**Which glimpses can I find in the present of those futures waiting to be born?**
+
 - New associations of neigbours and communities (example: Can Batlló)
 - "Vida de barrio"
 - New policies about immigration rights and multicultural cities
@@ -33,7 +36,7 @@ During this week we started situating our research and understanding the "social
 - Concept of cosmopolitan localism: SLOC (small, local, open, connected)
 
 
-### Sculpture of bodies
+### Sculpture of Bodies
 
 To use theater as a tool for creating and understanding systems is special for me (connecting a discipline that inspires me). It is interesting how we become conscious about each part of our body (self awareness) and how "putting bodies together" can show a reality (4D mapping).
 
@@ -43,17 +46,30 @@ When doing this exercise, the actors and the spectators have a leading role in t
 
 ### Local Ecosystem Mapping (from ego to eco)
 
+As part of the "Unlearning to learn group" we had the assignment of designing a collective intervention. During these weeks we start sharing our personal interests and trying to define a collective challenge. After exposing my own interests with the group (process of fabrication, humans relations and what they feel, new ways of education and food culture), everyone exposed their interests too and we analyze and connect them to a group challenge.
+
+*Our Collective´s Challenge*:
+
+**We studied in systems created by the needs of previous generations and led by them.
+Today's needs changed and the hierarchy in teaching and learning should change as well.**
+
+- How can we change what we learn and how we learn it?
+- How can we create new ways of learning, by raising our voice and showing our needs?
+- How can we be aware of those needs?
+
+*Identifying the local ecosystem*:
+
+![](../images/week8/groupchallenge.jpg)
+
+![](../images/week8/ecosystem.jpg)
+
+To see our complete work click here:
+**<https://miro.com/app/board/o9J_lghcdZA=/>**
 
 
 
-
-
-
-
-
-
-
-#### The best: 
+#### The best:
+- Using theater as a tool for creating and understanding realities.
 
 
 #### The Lessons Learned:
@@ -63,6 +79,7 @@ When doing this exercise, the actors and the spectators have a leading role in t
 
 
 #### The challenge:
+- Map the system and start meeting interesting people related to "what I care about".
 
 
 
