@@ -71,12 +71,11 @@ To see our complete work click here:
 #### The best:
 - Using theater as a tool for creating and understanding realities.
 
-
 #### The Lessons Learned:
 - What we give attention, it grows. So let´s focus our attention in the important things. 
 - We can change the reality by changing the inner place, so start from something little.
 - Mapping the ecosystem is a good way of understanding "who cares about what I care".
-
+- The concept of "wicked problems": every situation is unique so you can not define it from a top-down method. 
 
 #### The challenge:
 - Map the system and start meeting interesting people related to "what I care about".
