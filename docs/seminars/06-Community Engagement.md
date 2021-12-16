@@ -79,6 +79,7 @@ To see our complete work click here:
 
 #### The challenge:
 - Map the system and start meeting interesting people related to "what I care about".
+- Research and explore about "Teatro del Oprimido".
 
 
 

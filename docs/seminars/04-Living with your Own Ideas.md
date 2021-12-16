@@ -41,6 +41,7 @@ The first thing after deciding to do a chair was thinking about materials and th
 I relate this to emotional design and how things provoke emotions on humanbeings. "Simplicity" and"cozy" were some concepts for the design, and the main material would be wood. 
 
 I present you a design drawing of "Silla Lourdes":
+
 ![](../images/week5/dibujosilla.jpg)
 
 - What happens when you involve yourself?
