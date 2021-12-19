@@ -182,6 +182,8 @@ Insights:
 
 - Grafitti painting was introduced by Nikita in his own learning map.
 
+**Aprendizaje Emocionante Video Link**
+
 ##### Why the intervention was important for me?
 
 - Relationship between emotions and learning
