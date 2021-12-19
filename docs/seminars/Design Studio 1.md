@@ -6,25 +6,25 @@ hide:
 # Design Studio 1
 
 
-**Design vision of how our (social) world could be in the (near) future:**
+### Design vision of how our (social) world could be in the (near) future:
 
 My vision is to generate spaces for human relations and their educational and social development, empowering in the need of being part of something, accepting each others realities, empathizing, sharing and creating community as a main concept.
 
-**Personal Development Plan**
+### Personal Development Plan
 
-![](../images/week01/imagen a1.jpg) 
+![](../images/week01/imagena1.jpg) 
 
-**What I want to learn and develop?**
+### What I want to learn and develop?
 
-![](../images/week01/imagen a2.jpg) 
+![](../images/week01/imagena2.jpg) 
 
-**My New Me**
+### My New Me
 
 To construct my design and creativity attitude I got really inspired by Nasa´s I.S.R.U (In Situ Resource Utilization) and I am applying some methods that artist Tom Sachs defined as part of his creative way: output first thing in the morning, do what you love, setup is everything, start easy, patience, forgive yourself of perfectionism, make to do lists. 
 
 ![](../images/designstudio/mynewme.jpg)
 
-**Experiment 1: Positive Food Lunch**
+### Experiment 1: Positive Food Lunch
 
 Role of Prototyping: Means of Enquiry
 The purpose of this experiment was to explore the relationship between food and emotions for people.  Also to explore “making” food as a process and the changes in the materials (shape, color, taste, etc) when cooking.
@@ -40,13 +40,13 @@ The day of the experiment almost all the class participated, many exciting faces
 
 Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. In this link you can see a resumed video of the experiment: <https://www.youtube.com/watch?v=qH2-d3UDoYI>
 
-#### Conclusions:####
+Conclusions:
 -   Everyone related their food to some special memory of their local town/city. It was surprising that almost everyone brought something of their country.
 -   During the experience you feel “the joy energy” surrounding us. Also the sense of community and the “sharing” took place as the key element of the experience. 
 -   Food produces happines ? I will have to explore types of food and what produces in organism (serotonine, dopamine).
 - Many people asked me if we are going to repeat this experience, as a tradition. 
 
-**My Interests**
+### My Interests
 
 After sharing interests with my classmates, we were grouped together in "Unlearning to Learn", talk about experiments, ideas and new "to do things". It was very good seeing the touchpoints we have with each other:
 
@@ -59,8 +59,7 @@ This week I get really empowered with Ron Wakkary's seminar about post human cen
 
 We don´t design alone, we need to negiotate with others.
 
-
-**Documentation beyond Presentation**
+### Documentation beyond Presentation
 
 When documenting we represent the world with our own perception. In this way, documentation is not apart from our 1PP but is part of the process. 
 
@@ -74,7 +73,7 @@ The text input is cronologically captured transforming sentences into small "quo
 
 The result is an abstract, deep and poetic set of quotes summarizing the documentation process.
 
-In this link you can see the video ***"Words that Create Realities"***: 
+In this link you can see the video **"Words that Create Realities"**: 
 
 <https://www.youtube.com/watch?v=oPLxU-qrUXc>
 
@@ -85,6 +84,156 @@ Insights of this experience:
 - Context always affects the words and sense of language. Sound is a complementary tool for creating new realities.
 - Writing notes is not efficient for capturing all the moments, but it makes me aware of every single word. When writing a note you inmediatelly take the phrase of its context and can play with it. 
 - Organizing the documentation as a theater act (actor and producer) is a good way of self-communication and made me understand better the personal process in first person perspective.
+
+
+### Collective Design Intervention
+
+As part of the “Unlearning to learn” group, we had the assignment of designing a collective intervention. 
+
+During the last weeks we start sharing our personal interests and trying to define a collective challenge. After exposing my own interests with the group (process of fabrication, human’s relations and what they feel, new ways of education and food culture), everyone exposed their interests too and we analyze and connect them to a group challenge. 
+
+![](../images/designstudio/group.jpg)
+
+At the same time, we started contacting different people, exposing our ideas and concerns, with an open attitude and active listening. Many lessons and some insights appeared in the way.
+
+Meeting with Kate:
+
+- Learning versus the education system.
+- We have different approaches about learning (lets frame it)
+- Set the playground of our intervention: why, what, how, where
+
+Meeting with Clement :
+
+-   Prepare well formulated questions. Simple language for involving the community
+-   Design a intervention to be fun (for social attraction)
+-   Input-Output-Outcome-Impact
+-   Look events and make the intervention there
+
+Visit to Can Batlló:
+
+-   The intervention can be made in an open space.
+-   What about graffiti as a tool for expression?
+-   Examples of organized communities and cooperatives. 
+
+After discussing and sharing experiences, we decided this as our collective challenge:
+
+> We studied in systems created by the needs of previous generations and led by them. Today's needs changed and the hierarchy in teaching and learning should change as well. How can we change what we learn and how we learn it?, How can we create new ways of learning, by raising our voice and showing our needs?, How can we be aware of those needs?
+
+This is how **APRENDIZAJE EMOCIONANTE** emerged. 
+![](../images/designstudio/aprendizajeemocionante.jpg)
+
+##### What is it?
+Exploration about different ways of learning of people in Barcelona, by collecting their individual learning paths. We invited people to draw a map of their learning journey and thell us the story behind key moments. 
+
+##### How do we imagined it?
+People will draw their personal learning maps and make a reflection about it. After that they will choose one lesson of their own map and make a drawing or painting of an emotion or feeling that resume the experience. All the drawings will be hanged and exhibit in an open space for people getting inspired with other´s stories.
+
+##### Prototyping the Activity
+
+The ***first prototype*** of the activity was with some chilean and italian friends at my house, where after talking about our own learning experiences in barcelona, I asked them to draw their learning paths and after some minutes we shared these between us. I also shared my own experience and learning path.
+
+![](../images/designstudio/prototype1.jpg)
+
+Insights: 
+
+- When I expose myself to others, others also expose themselves. It is a way of creating horizontal relationships. 
+- The exercise is an excuse for people start telling their life story.
+- The time is important for everyone to get a deep reflection and really connect with the work.
+- The space is crucial: we were having some drinks in a cozy and intime scenario.
+
+The ***second prototype*** of the activity was during lunch time with two classmates. The scenario was a table in a nice sunny terrace, after going to Materfad and discover amazing biomaterials. The conversation was very intime and emotional, talking about prorities in life and concerns about relationships. 
+![](../images/designstudio/prototype2.jpg)
+
+Insights: 
+
+- After sharing I asked them to resume all this work in one word. This was going to be very powerfull for our exhibition and how we communicate our intervention. 
+- Small groups generate a intime atmosphere where conversation is much deep. 
+
+
+##### The Intervention
+![](../images/designstudio/poster.jpg)
+
+After sending some emails to places we thought would be good for our intervention, finally decided to make it in Three Marks Coffee, because they liked the idea! We arrived to the coffee shop early and it was closed, but after some time waiting they opened and we saw the space. At first we were nervous and a bit shy, did not know how to start or in which part of the space to set all things. We had some coffee and prepare ourselves, choosing second floor as the best space to make the intervention.
+
+and we wait for people...
+
+![](../images/designstudio/intervention.jpg)
+
+Insights: 
+
+- We meet people from different backgrounds and cultures that tell us their learning journeys and some life experiences. (Example: Saudi arabian couple in honey moon told their story)
+- New opportunities of intervention raise (Example: there is a teacher that wants to do this with his students)
+- People gets inspired by the intervention (Example: a guy told us that he will present his learning path as part of his PhD)
+
+Inspired by the vibe I sat on a chair and start making again my own learning path:
+![](../images/designstudio/mapacote2.jpg)
+
+##### The Second Intervention
+
+We planned to do an open space intervention in Mariposa Park. The idea was to explore with other materials and painting tools, giving people the freedom to use whatever they wanted. 
+
+![](../images/designstudio/intervention2.jpg)
+
+Insights: 
+
+- Not many people came. It was a cold day, and the people that was in the park wanted to relax and did not participate. 
+
+- We had some classmates that participated, but very fast because of time. They did not used any special material that we had brought (only paper and pencil).
+
+- Grafitti painting was introduced by Nikita in his own learning map.
+
+##### Why the intervention was important for me?
+
+- Relationship between emotions and learning
+
+(to be continued)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

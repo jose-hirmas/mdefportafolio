@@ -46,7 +46,7 @@ When doing this exercise, the actors and the spectators have a leading role in t
 
 ### Local Ecosystem Mapping (from ego to eco)
 
-As part of the "Unlearning to learn group" we had the assignment of designing a collective intervention. During these weeks we start sharing our personal interests and trying to define a collective challenge. After exposing my own interests with the group (process of fabrication, humans relations and what they feel, new ways of education and food culture), everyone exposed their interests too and we analyze and connect them to a group challenge.
+As part of the "Unlearning to learn group" we had the assignment of designing a collective intervention (read more about in design studio term 1).
 
 *Our Collective´s Challenge*:
 
