@@ -24,7 +24,7 @@ To construct my design and creativity attitude I got really inspired by Nasa´s 
 
 ![](../images/designstudio/mynewme.jpg)
 
-### Experiment 1: Positive Food Lunch
+### Experiment: Positive Foods Lunch
 
 Role of Prototyping: Means of Enquiry
 The purpose of this experiment was to explore the relationship between food and emotions for people.  Also to explore “making” food as a process and the changes in the materials (shape, color, taste, etc) when cooking.
@@ -38,9 +38,13 @@ I choose to make **Choripan con Pebre**: this is a traditional Chilean informal 
 The day of the experiment almost all the class participated, many exciting faces and positive comments about the idea. There was a lot of different food!
 ![](../images/designstudio/lunch.jpg)
 
-Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. In this link you can see a resumed video of the experiment: <https://www.youtube.com/watch?v=qH2-d3UDoYI>
+Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. 
+
+In this link you can see a **Video of Positive Foods**: 
+**<https://www.youtube.com/watch?v=qH2-d3UDoYI>**
 
 Conclusions:
+
 -   Everyone related their food to some special memory of their local town/city. It was surprising that almost everyone brought something of their country.
 -   During the experience you feel “the joy energy” surrounding us. Also the sense of community and the “sharing” took place as the key element of the experience. 
 -   Food produces happines ? I will have to explore types of food and what produces in organism (serotonine, dopamine).
@@ -130,7 +134,7 @@ People will draw their personal learning maps and make a reflection about it. Af
 
 ##### Prototyping the Activity
 
-The ***first prototype*** of the activity was with some chilean and italian friends at my house, where after talking about our own learning experiences in barcelona, I asked them to draw their learning paths and after some minutes we shared these between us. I also shared my own experience and learning path.
+The *first prototype* of the activity was with some chilean and italian friends at my house, where after talking about our own learning experiences in barcelona, I asked them to draw their learning paths and after some minutes we shared these between us. I also shared my own experience and learning path.
 
 ![](../images/designstudio/prototype1.jpg)
 
@@ -141,7 +145,7 @@ Insights:
 - The time is important for everyone to get a deep reflection and really connect with the work.
 - The space is crucial: we were having some drinks in a cozy and intime scenario.
 
-The ***second prototype*** of the activity was during lunch time with two classmates. The scenario was a table in a nice sunny terrace, after going to Materfad and discover amazing biomaterials. The conversation was very intime and emotional, talking about prorities in life and concerns about relationships. 
+The *second prototype* of the activity was during lunch time with two classmates. The scenario was a table in a nice sunny terrace, after going to Materfad and discover amazing biomaterials. The conversation was very intime and emotional, talking about prorities in life and concerns about relationships. 
 ![](../images/designstudio/prototype2.jpg)
 
 Insights: 
@@ -173,7 +177,6 @@ Inspired by the vibe I sat on a chair and start making again my own learning pat
 We planned to do an open space intervention in Mariposa Park. The idea was to explore with other materials and painting tools, giving people the freedom to use whatever they wanted. 
 
 ![](../images/designstudio/intervention2.jpg)
-
 Insights: 
 
 - Not many people came. It was a cold day, and the people that was in the park wanted to relax and did not participate. 
@@ -182,13 +185,41 @@ Insights:
 
 - Grafitti painting was introduced by Nikita in his own learning map.
 
-**Aprendizaje Emocionante Video Link**
+**Aprendizaje Emocionante** video link: 
+**<https://video.ploud.fr/w/ea3JsvkrQrVPbxwr4Y7gpr>**
 
 ##### Why the intervention was important for me?
 
-- Relationship between emotions and learning
+- Understand others learning paths and backgrounds, enhancing my empathy. 
 
-(to be continued)
+- Connect with my own history, remembering special moments of my learning journey and the triggers of my personal development.
+
+- Discover the relationship of emotions and learnings through my life.
+
+##### Next steps for the collective design intervention
+
+1. Continue exploring and collecting learning paths ind different spaces around Barcelona. 
+
+2. Communicate our work in social media (instagram).
+
+3. Analyze the data that we have gathered and reflect about the experience.
+
+4. Make an outcome out of this.
+
+The question for this moment has been: What is my role as a designer?
+
+
+### My Fight (version 2)
+![](../images/designstudio/myfight2.jpg)
+
+
+After the end of the first term...
+
+
+
+
+
+
 
 
 
