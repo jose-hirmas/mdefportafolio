@@ -123,7 +123,10 @@ After discussing and sharing experiences, we decided this as our collective chal
 
 > We studied in systems created by the needs of previous generations and led by them. Today's needs changed and the hierarchy in teaching and learning should change as well. How can we change what we learn and how we learn it?, How can we create new ways of learning, by raising our voice and showing our needs?, How can we be aware of those needs?
 
-This is how **APRENDIZAJE EMOCIONANTE** emerged. 
+This is the *first map of my learning process*, which I shared with our group. I started putting out the day I was born. From this I thought about important moments in my life (grey circles) and related to learning moments (blue circles), focusing in the emotions and feelings of that learning experience(red circles).
+![](../images/designstudio/mapacote1.jpg)
+
+From this moment on,**APRENDIZAJE EMOCIONANTE** emerged. 
 ![](../images/designstudio/aprendizajeemocionante.jpg)
 
 ##### What is it?
@@ -163,14 +166,14 @@ and we wait for people...
 
 ![](../images/designstudio/intervention.jpg)
 
+Inspired by the vibe I sat on a chair and start making again my own learning path:
+![](../images/designstudio/mapacote2.jpg)
+
 Insights: 
 
 - We meet people from different backgrounds and cultures that tell us their learning journeys and some life experiences. (Example: Saudi arabian couple in honey moon told their story)
 - New opportunities of intervention raise (Example: there is a teacher that wants to do this with his students)
 - People gets inspired by the intervention (Example: a guy told us that he will present his learning path as part of his PhD)
-
-Inspired by the vibe I sat on a chair and start making again my own learning path:
-![](../images/designstudio/mapacote2.jpg)
 
 ##### The Second Intervention
 
@@ -208,12 +211,17 @@ Insights:
 
 The question for this moment has been: What is my role as a designer?
 
+##### Aprendizaje Emocionante: The Card Game 
+
 
 ### My Fight (version 2)
 ![](../images/designstudio/myfight2.jpg)
 
 
 After the end of the first term...
+
+
+
 
 
 

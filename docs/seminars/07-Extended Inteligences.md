@@ -48,7 +48,7 @@ We are using GPT-3 (Generative Pre-trained Transformer 3), a third-generation la
 
 The above tewnty one ant rights were formulated by the Ant Rights Project as a basis for further discussion and as a means of protecting ants from human exploitation and abuse. The Ant Rights Project has also developed a draft treaty which would be submitted to the United Nations to prohibit human activities that interfere with the freedom of ants.
 
-##### Wacky Reflection: 
+**Wacky Reflection:**
 What do ants think about their rights? What is their opinion? Is there a way to communicate with them? To get further this assignment we could create a form of communication with ants, so they can comment about their own style of living and what rights they think deserve. For example, an idea for this communication between humans and ants could be by the speed they walk and what figures are built by their footprints when walking.
 
 For further information about our project see our website: **<https://antrights.com/>**
