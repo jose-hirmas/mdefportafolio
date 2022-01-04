@@ -211,17 +211,21 @@ Insights:
 
 The question for this moment has been: What is my role as a designer?
 
-##### Aprendizaje Emocionante: The Card Game 
+##### Aprendizaje Emocionante: The Card Game
+
+![](../images/designstudio/ae1.jpg)
+![](../images/designstudio/ae2.jpg)
+![](../images/designstudio/ae3.jpg)
+![](../images/designstudio/ae4.jpg)
+![](../images/designstudio/ae5.jpg)
+![](../images/designstudio/ae6.jpg)
 
 
-### My Fight (version 2)
+#### My Fight (version 2)
 ![](../images/designstudio/myfight2.jpg)
 
 
-After the end of the first term...
-
-
-
+#### Design Dialogues 1
 
 
 
