@@ -221,11 +221,11 @@ The question for this moment has been: What is my role as a designer?
 ![](../images/designstudio/ae6.jpg)
 
 
-#### My Fight (version 2)
+### My Fight (version 2)
 ![](../images/designstudio/myfight2.jpg)
 
 
-#### Design Dialogues 1
+### Design Dialogues 1
 
 
 
