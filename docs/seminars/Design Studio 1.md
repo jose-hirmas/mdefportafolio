@@ -129,7 +129,7 @@ This is the *first map of my learning process*, which I shared with our group. I
 From this moment on,**APRENDIZAJE EMOCIONANTE** emerged. 
 ![](../images/designstudio/aprendizajeemocionante.jpg)
 
-##### What is it?
+#### What is it?
 Exploration about different ways of learning of people in Barcelona, by collecting their individual learning paths. We invited people to draw a map of their learning journey and thell us the story behind key moments. 
 
 ##### How do we imagined it?
@@ -157,7 +157,7 @@ Insights:
 - Small groups generate a intime atmosphere where conversation is much deep. 
 
 
-##### The Intervention
+#### The Intervention
 ![](../images/designstudio/poster.jpg)
 
 After sending some emails to places we thought would be good for our intervention, finally decided to make it in Three Marks Coffee, because they liked the idea! We arrived to the coffee shop early and it was closed, but after some time waiting they opened and we saw the space. At first we were nervous and a bit shy, did not know how to start or in which part of the space to set all things. We had some coffee and prepare ourselves, choosing second floor as the best space to make the intervention.
@@ -175,7 +175,7 @@ Insights:
 - New opportunities of intervention raise (Example: there is a teacher that wants to do this with his students)
 - People gets inspired by the intervention (Example: a guy told us that he will present his learning path as part of his PhD)
 
-##### The Second Intervention
+#### The Second Intervention
 
 We planned to do an open space intervention in Mariposa Park. The idea was to explore with other materials and painting tools, giving people the freedom to use whatever they wanted. 
 
@@ -191,7 +191,7 @@ Insights:
 **Aprendizaje Emocionante** video link: 
 **<https://video.ploud.fr/w/ea3JsvkrQrVPbxwr4Y7gpr>**
 
-##### Why the intervention was important for me?
+#### Why the intervention was important for me?
 
 - Understand others learning paths and backgrounds, enhancing my empathy. 
 
@@ -199,7 +199,7 @@ Insights:
 
 - Discover the relationship of emotions and learnings through my life.
 
-##### Next steps for the collective design intervention
+#### Next steps for the collective design intervention
 
 1. Continue exploring and collecting learning paths ind different spaces around Barcelona. 
 
@@ -211,21 +211,44 @@ Insights:
 
 The question for this moment has been: What is my role as a designer?
 
-##### Aprendizaje Emocionante: The Card Game
+### Aprendizaje Emocionante: The Card Game
+
+As a collective we decided to prototype a game that could make people explore, reflect and share different learning moments of their lives. For this, we selected anonymously some special quotes of the people we met during our design intervention. 
+Beneath every quote we defined a mini challenge related to the topic of the quote. 
+
+With this we complete 16 cards with one quote and one challenge. 
 
 ![](../images/designstudio/ae1.jpg)
+
+The rules for the game were:
+
+1. Pick a card
+2. Read the quote
+3. Read the challenge
+4. Make it real
+5. Share your learning experience
+
+During the **Design Dialogues 1** we had the opportunity to play and share learning experiences betweeen some of our classmates, tutors and visits. Also, we continue making the intervention about discovering the learning paths, hanging all the drawings in a welcoming place to get inspired. 
+
 ![](../images/designstudio/ae2.jpg)
 ![](../images/designstudio/ae3.jpg)
-![](../images/designstudio/ae4.jpg)
-![](../images/designstudio/ae5.jpg)
-![](../images/designstudio/ae6.jpg)
 
 
-### My Fight (version 2)
+### My Fight (version 2.0)
+
+Emotions are present in every human interaction. I am extremely aware about how emotions affect people´s living. We educate ourselves during all our lives and the best learnings are in cotidian and simple moments, triggering emotions. This process in meaninfull for the person´s personal and social development, constructing the learning path and influences the decisions we make as humanbeings. 
+
+If we connect with the process (what is happening right now) and change our mindset not focusing mainly in the result, we will enjoy each moment, lower the anxiety about the future, and maybe make better decisions for tomorrow. 
+
+The gap between "emotions", "process" and "learning" is what I am interested about.
+That is the design loop: from external to internal, from "what you do" to "what you feel".
+
 ![](../images/designstudio/myfight2.jpg)
 
 
-### Design Dialogues 1
+
+
+
 
 
 
