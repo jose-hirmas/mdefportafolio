@@ -5,7 +5,8 @@ hide:
 
 # Community Engagement
 
-> ## " We are all actors: being a citizen is not living in society, it is changing it."
+> ## " We are all actors: being a citizen is not living in society, it is changing it." (Augusto Boal)
+
 
 During this week we started situating our research and understanding the "social body", with a practical approach:
 

@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-> ## "Lo esencial es invisibles a los ojos"
+> ## "Lo esencial es invisibles a los ojos" (Antoine de Saint-Exupéry)
 
 The weak signals I chose are “Emotional Design” and “Maker Education”, this is because I have interests in the relationship and interactions between human beings and how emotions play a role in the social educational development. For me, traditional education is obsolete in latam and the world. I have been making classes in public rural schools back in Chile, where I have evidence the importance of bonding between students and teacher-student, for their integral formation. Also interested in how learning by doing and gamification can be an excellent tool for children´s integration. 
 

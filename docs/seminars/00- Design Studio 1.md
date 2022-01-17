@@ -5,7 +5,6 @@ hide:
 
 # Design Studio 1
 
-
 ### Design vision of how our (social) world could be in the (near) future:
 
 My vision is to generate spaces for human relations and their educational and social development, empowering in the need of being part of something, accepting each others realities, empathizing, sharing and creating community as a main concept.

@@ -7,6 +7,7 @@ hide:
 
 > ## "History is a process of transformation through conversation. In our efforts to produce change, we often forget how important it is to pay attention to what is being conserved" (Humberto Maturana)
 
+
 The main purpose of these weeks was to understand human existence and the relationship between us and the world that surrounds life. For this, we had the opportunity to experiment with biology tools and some agriculture experimentation. 
 
 **Looking for Micro-organisms**

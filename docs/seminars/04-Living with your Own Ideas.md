@@ -5,7 +5,7 @@ hide:
 
 # Living with Your Own Ideas
 
-> ## "Every great design begins with an even better story "
+> ## "Every great design begins with an even better story " (Lorinda Mamo)
 
 
 ### The Magic Machines Workshop

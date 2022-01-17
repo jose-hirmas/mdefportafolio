@@ -5,7 +5,7 @@ hide:
 
 # Tech beyond the Myth
 
-> ## "Just because something doesn’t do what you planned it to do doesn’t mean it’s useless"
+> ## "Just because something doesn’t do what you planned it to do doesn’t mean it’s useless" (Thomas A. Edison)
 
 
 ### Forensics of the Obsolescence

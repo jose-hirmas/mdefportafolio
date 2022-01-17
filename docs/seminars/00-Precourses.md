@@ -5,7 +5,7 @@ hide:
 
 # Precourses
 
-> ## “Caminante no hay camino, se hace camino al andar”
+> ## “Caminante no hay camino, se hace camino al andar” (Antonio Machado)
 
 I arrived at Barcelona on Friday 17 Sept 2021, after leaving Chile where I have worked and lived all my life. This first weekend was to settle out, go around the city, explore some typical places and be prepared for class. My feelings are anxiety, surprise, and happiness, preparing for new learnings and the MDEF experience.
 

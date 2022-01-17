@@ -5,7 +5,7 @@ hide:
 
 # Extended Inteligences
 
-> ## "The measure of intelligence is the ability to change" 
+> ## "The measure of intelligence is the ability to change" (Albert Einstein) 
 
 
 During these weeks we started exploring artificial intelligence by introducing some new concepts such as: machine learning, neural network and data sets. 
