@@ -34,7 +34,29 @@ My *new project goals* are:
 ![](../images/designstudio/interestswih.jpg)
 
 
-### Design Space
+Infraestructure and Spaces:
+-   Fab Lab and IAAC classroom
+-   Elisava Lab and library
+-   My apartment: kitchen, desk and terrace.
+-   Barcelona streets and parks
+-   Materfad
+-   Craft bars and restaurants in BCN
+
+People and Communities:
+-   MDEF classmates, tutors and professors
+-   Aquí (Clement)
+-   Siscode – Remix el barrio
+-   Can Battló  (Markel)
+-   Family Beer
+
+Tools and Materials:
+-   Computer, notebook, pen.
+-   Kitchen´s brewing materials
+-   Food residues
+-   Fab Lab tools
+-   Arduino and electronics kit
+
+
 ### Proposal for Intervention 1
 
 
