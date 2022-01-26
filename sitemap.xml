@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/Fab%20Academy/</loc>
+         <lastmod>2022-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/Future%20Talks/</loc>
+         <lastmod>2022-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/about/about/</loc>
          <lastmod>2022-01-26</lastmod>
          <changefreq>daily</changefreq>
@@ -17,11 +27,6 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/design%20studio/Design%20Studio%202/</loc>
-         <lastmod>2022-01-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/fab%20academy/Fab%20Academy/</loc>
          <lastmod>2022-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -67,11 +72,6 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/08-Designing%20for%20the%20Next%20Billion%20Seconds/</loc>
-         <lastmod>2022-01-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/seminars/09-Future%20Talks/</loc>
          <lastmod>2022-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
