@@ -21,40 +21,32 @@ My personal formula: 70%Act + 20%Reflect + 10% Research.
 
 This master has been the **starting point of something**.
 
-For me, design is not about a product outcome, but an exercise of interventions in a defined system that is in constantly movement. It is not about the final result, but a circular process (learning loops) where you go gaining feedback. My role as a designer is related to finding new and better ways of relationship between humanbeings, with technology and with nature. 
+For me, design is not about a product outcome, but an exercise of interventions in a defined system that is in constantly movement. It is not about the final result, but a circular process (learning loops) where you go gaining feedback.
 
-My *new project goals* are:
-
+New project goals for this term:
 - Trying new things. You dont't know until you know.
 - Keep understanding where I am standing right now.
 - Don't forget my own skills and attitudes.
 - Connect what is important for me, with what is important for others.
 - Design a specific outcome (land my ideas and vision)
 
+### My Interests and What is Happening
 ![](../images/designstudio/interestswih.jpg)
 
+My main interests, which I had been driven and exploring, can be sintetize into:  
+**emotions**, **fabrication process**, **alternative learning**.
 
-Infraestructure and Spaces:
--   Fab Lab and IAAC classroom
--   Elisava Lab and library
--   My apartment: kitchen, desk and terrace.
--   Barcelona streets and parks
--   Materfad
--   Craft bars and restaurants in BCN
+In order to connect this topics I choose **Food** as the medium. I have a special relation with food, more than just nutrition or eating. During all my life, I have experienced many rituals and practices are around food and culture. So I want to dicover what is that "special relation" about.
 
-People and Communities:
--   MDEF classmates, tutors and professors
--   Aquí (Clement)
--   Siscode – Remix el barrio
--   Can Battló  (Markel)
--   Family Beer
+- What if we could trigger determined emotions through food?
+- What if food is eaten acording to what you want or need to feel?
+- What if we could fabricate (cook) emotions?
+- what if food feels emotions?
 
-Tools and Materials:
--   Computer, notebook, pen.
--   Kitchen´s brewing materials
--   Food residues
--   Fab Lab tools
--   Arduino and electronics kit
+The main challenge(s): **How to use food for social development, for justice and for equality?** I am into explore the relationship of humans and food (non human involvement) and how food behaves and act in this relationality. 
+
+
+### Design Space
 
 
 ### Proposal for Intervention 1
