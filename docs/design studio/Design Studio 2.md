@@ -9,7 +9,7 @@ hide:
 
 More than 4 months have passed since my arrival to Barcelona and starting the MDEF, and many new lessons learned so far.
 
-The *first-person perspective* approach has been a new way of discovering the world, making me conscious about a new designer mindset. During my past professional career, I had been designing social projects for others with a traditional human centered approach, so now it is more evident to feel the intervention(s), redefining the concept of empathy and “putting on the other´s shoes”. This has been meaningful not only in the way I start understanding deeply what is happening around me, but also slowly transforming myself into a doer (a maker). Some examples of this were the “Positive foods” (cooking, eating and sharing), “Fabrication for Someone You Love” (designing, fabricating and using the fab lab tools) and “Aprendizaje Emocionante” (drawing, sharing and making conversation). At the same point, when “designing with” I am feeling more confident about my skills and attitudes, and more aware about my weaknesses and aspects to improve. 
+The *first person perspective* approach has been a new way of discovering the world, making me conscious about a new designer mindset. During my past professional career, I had been designing social projects for others with a traditional human centered approach, so now it is more evident to feel the intervention(s), redefining the concept of empathy and “putting on the other´s shoes”. This has been meaningful not only in the way I start understanding deeply what is happening around me, but also slowly transforming myself into a doer (a maker). Some examples of this were the “Positive foods” (cooking, eating and sharing), “Fabrication for Someone You Love” (designing, fabricating and using the fab lab tools) and “Aprendizaje Emocionante” (drawing, sharing and making conversation). At the same point, when “designing with” I am feeling more confident about my skills and attitudes, and more aware about my weaknesses and aspects to improve. 
 
 So, I will continue doing. Going out of my head and putting the energy in my hands.
 
@@ -46,10 +46,12 @@ In order to connect this topics I choose **Food** as the medium. I have a specia
 The main challenge(s): **How to use food for social development, for justice and for equality?** I am into explore the relationship of humans and food (non human involvement) and how food behaves and act in this relationality. 
 
 
-### Design Space
+### Design Space (always in beta)
+
+**![](https://miro.com/app/board/uXjVOUUri6Q=/?invite_link_id=223047973361)**
 
 
-### Proposal for Intervention 1
+### Intervention #1
 
 
 
