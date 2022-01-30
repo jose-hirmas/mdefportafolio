@@ -48,7 +48,7 @@ The main challenge(s): **How to use food for social development, for justice and
 
 ### Design Space (always in beta)
 
-**![](https://miro.com/app/board/uXjVOUUri6Q=/?invite_link_id=223047973361)**
+**<https://miro.com/app/board/uXjVOUUri6Q=/?invite_link_id=223047973361)>**
 
 
 ### Intervention #1
