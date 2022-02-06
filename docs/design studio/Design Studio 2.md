@@ -53,6 +53,29 @@ The main challenge(s): **How to use food for social development, for justice and
 
 ### Intervention #1
 
+Role of design:
+
+Why? (the purpose)
+
+What? (what is about)
+
+How? (the process)
+
+- Data:
+- Step by Step
+- The Outcome
+
+Lessons Learned
+
+
+
+
+
+
+
+
+
+
 
 
 
