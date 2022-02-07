@@ -76,6 +76,21 @@ After eating each plate, I analyzed each painting asking myself "What is food tr
 **The art exhibition: <https://www.behance.net/gallery/136609447/The-art-of-devouring>**
 
 For exploring the perception of others (and collecting more data) a questionnaire with all the art pieces was shared. People can comment what they think and feel about each painting. 
+![](../images/designstudio/dataart.jpg)
+
+#### Lessons Learned
+- What food feels is determined by human perception and traditional communication, so it will always be a subjetive exercise for speculative design. Technology could be an excellent tool for finding new ways of comunication with a non human.
+- When being in a 1PP, the process of cooking (maker) and eating (user) is meaningful and intime. Food transforms into a special partner. 
+- What makes us humans? What makes them food? What if we change our relationship and concepts about it?
+- Senses do not have have a hierarchical order when humans relate with food, they are complementary and needed according to the objetive of the intervention.
+
+
+
+
+
+
+
+
 
 
 
