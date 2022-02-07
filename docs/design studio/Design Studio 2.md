@@ -43,29 +43,42 @@ In order to connect this topics I choose **Food** as the medium. I have a specia
 - What if we could fabricate (cook) emotions?
 - what if food feels emotions?
 
-The main challenge(s): **How to use food for social development, for justice and for equality?** I am into explore the relationship of humans and food (non human involvement) and how food behaves and act in this relationality. 
+The main challenge(s): **Food as a socio-emotional human developer for happiness and an empathic world** I am into explore the relationship of humans and food (non human involvement) and how food behaves and act in this relationality. 
 
 
 ### Design Space (always in beta)
 
 **<https://miro.com/app/board/uXjVOUUri6Q=/?invite_link_id=223047973361)>**
 
+My mission: **Embody a new relationship between (human) emotions and the role of food for the future(s).**
 
-### Intervention #1
 
-Role of design:
+### Intervention #1: The Art of Devouring
 
-Why? (the purpose)
+#### Why?
+As a basic fact, we need to eat to survive. Over time, food has transformed not only in a basic need, but a way to make conversation, provoking meeting points between people. Many times we take for granted the intimate relationship that is generated between the one who cooks, the one(s) who eat(s) and the food itself. Food can be not only an excuse to gather around, but also a main actor in the relations we need to have as humanbeings.
 
-What? (what is about)
+What if food could express their emotions? Post-human approach shifting the role of food.
 
-How? (the process)
+#### What?
+This intervention turns food into artists, allowing them to express their emotions (in the process of cooking) before being devoured by humans.
 
-- Data:
-- Step by Step
-- The Outcome
+![](../images/designstudio/artecomida.jpg)
 
-Lessons Learned
+#### How?
+Choosing different recipes and cooking them using white paper as a base. During the process (in each paper used) the food leaved a mark, which was a unique "piece of art" as a food emotional expression.
+
+![](../images/designstudio/bolonesa.jpg)
+![](../images/designstudio/tortillapure.jpg)
+
+After eating each plate, I analyzed each painting asking myself "What is food trying to express?" and named each piece of art, fulfilling myself a role of art critic.
+
+**The art exhibition: <https://www.behance.net/gallery/136609447/The-art-of-devouring>**
+
+For exploring the perception of others (and collecting more data) a questionnaire with all the art pieces was shared. People can comment what they think and feel about each painting. 
+
+
+
 
 
 
