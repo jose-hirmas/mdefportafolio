@@ -69,9 +69,7 @@ This intervention turns food into artists, allowing them to express their emotio
 #### How?
 Choosing different recipes and cooking them using white paper as a base. During the process (in each paper used) the food leaved a mark, which was a unique "piece of art" as a food emotional expression.
 
-![](../images/designstudio/bolonesa.jpg)
-
-![](../images/designstudio/tortillapure.jpg)
+![](../images/designstudio/preparacioncomida.jpg)
 
 After eating each plate, I analyzed each painting asking myself "What is food trying to express?" and named each piece of art, fulfilling myself a role of art critic. 
 
