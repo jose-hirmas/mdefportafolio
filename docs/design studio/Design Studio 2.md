@@ -73,22 +73,24 @@ Choosing different recipes and cooking them using white paper as a base. During 
 
 ![](../images/designstudio/tortillapure.jpg)
 
-After eating each plate, I analyzed each painting asking myself "What is food trying to express?" and named each piece of art, fulfilling myself a role of art critic.
+After eating each plate, I analyzed each painting asking myself "What is food trying to express?" and named each piece of art, fulfilling myself a role of art critic. 
 
 **The art exhibition: <https://www.behance.net/gallery/136609447/The-art-of-devouring>**
+
+Each painting can be seen as a single vignette (autoethnographic design) because it is a short scene of a story, describing one specific moment in the food fabrication process. 
 
 For exploring the perception of others (and collecting more data) a questionnaire with all the art pieces was shared. People can comment what they think and feel about each painting. 
 
 ![](../images/designstudio/dataart.jpg)
 
 #### Lessons Learned
-- Cooking as a way to express creativity, reduces anxiety and helps mantaining focus.
-- Sharing food as a way of demonstrating care and love for others. 
-- What food feels is determined by human perception and traditional communication, so it will always be a subjetive exercise for speculative design. Technology could be an excellent tool for finding new ways of comunication with a non human.
-- When being in a 1PP, the process of cooking (maker) and eating (user) is meaningful and intime. Food transforms into a special partner. 
+- This intervention was situated using autoethnographic design: cooking as a way to express my creativity, reduce anxiety and help mantaining focus. I was aware of my emotions and the "sharing of food" as a way of demonstrating care and love for others. 
+- What food "feels" is determined by human perception and traditional communication, so it will always be a subjetive exercise for speculative design. Technology could be an excellent tool for finding new ways of comunication with a non human. We can collaborate with food (no-human approach).
+- The process of cooking (maker) and eating (user) is meaningful and intime, there is no boundaries between. Food transforms into a special partner. 
 - Senses do not have have a hierarchical order when humans relate with food, they are complementary and needed according to the objetive of the intervention.
 
 #### For the Future
+
 
 
 
