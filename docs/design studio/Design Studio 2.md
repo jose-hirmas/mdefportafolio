@@ -82,11 +82,13 @@ For exploring the perception of others (and collecting more data) a questionnair
 ![](../images/designstudio/dataart.jpg)
 
 #### Lessons Learned
+- Cooking as a way to express creativity, reduces anxiety and helps mantaining focus.
+- Sharing food as a way of demonstrating care and love for others. 
 - What food feels is determined by human perception and traditional communication, so it will always be a subjetive exercise for speculative design. Technology could be an excellent tool for finding new ways of comunication with a non human.
 - When being in a 1PP, the process of cooking (maker) and eating (user) is meaningful and intime. Food transforms into a special partner. 
-- What makes us humans? What makes them food? What if we change our relationship and concepts about it?
 - Senses do not have have a hierarchical order when humans relate with food, they are complementary and needed according to the objetive of the intervention.
 
+#### For the Future
 
 
 
