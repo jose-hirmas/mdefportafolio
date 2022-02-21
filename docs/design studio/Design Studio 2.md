@@ -50,11 +50,11 @@ The main challenge(s): **Food as a socio-emotional human developer for happiness
 
 **<https://miro.com/app/board/uXjVOUUri6Q=/?invite_link_id=223047973361)>**
 
-My mission:
-**Embody a new relationship between (human) emotions and the role of food for the future(s).**
-
 
 ### Intervention #1: The Art of Devouring
+
+My mission:
+**Embody a new relationship between (human) emotions and the role of food for the future(s).**
 
 #### Why?
 As a basic fact, we need to eat to survive. Over time, food has transformed not only in a basic need, but a way to make conversation, provoking meeting points between people. Many times we take for granted the intimate relationship that is generated between the one who cooks, the one(s) who eat(s) and the food itself. Food can be not only an excuse to gather around, but also a main actor in the relations we need to have as humanbeings.
@@ -87,9 +87,21 @@ For exploring the perception of others (and collecting more data) a questionnair
 - The process of cooking (maker) and eating (user) is meaningful and intime, there is no boundaries between. Food transforms into a special partner. 
 - Senses do not have have a hierarchical order when humans relate with food, they are complementary and needed according to the objetive of the intervention.
 
-#### For the Future
+#### For the Future(s)
 
-I was inspired by 
+- What makes meaningfull a food experience?
+- What makes us humans? What makes them food? What if we change our relationship and concepts about it?
+- How food can help to make better relations for human beings?
+- Is cooking considered a therapy? Benefits for health? (Culinary Art therapy)
+- Food Trends 2022: Serving nostalgia, reduce meat, fusion flavours, superfood.
+- How to make a food lab for research?
+
+After this intervention I had the opportunity of talking to some people for feedback and also for searching ways of collaboration. During this process I managed to connect some dots in relation to my past work and my actual interests: what I have being doing in an invisible form is **"giving voice to agents that usually do not have it "**.
+
+My project is about developing mecanisms of communication in the intervention. 
+
+
+### Intervention #2 (in process)
 
 
 
