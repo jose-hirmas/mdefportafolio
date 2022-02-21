@@ -5,9 +5,7 @@ hide:
 
 # Challenges
 
-## Challenge #1
-
-### Design and make “something” that can help the process of designing/creating/thinking/collaborating with others
+## Challenge #1: Design and make “something” that can help the process of designing/creating/thinking/collaborating with others
 
 For this challenge I worked with Borka and Anna, sharing our personal interests and defining the group topic as: **Participatory games for shared realities**.
 
@@ -15,7 +13,7 @@ The question we held was the trigger for developing the challenge: **How we enco
 
 ![](../images/fabacademy/creuar1.jpg)
 
-#### Why "CREUAR"?
+### Why "CREUAR"?
 
 Democratizing participation is a big challenge when imagining and co-creating the future(s). The decisions that we make as society are commonly led by the same people, generating a misunderstanding of issues and a lack of holistic wellbeing.
 
@@ -25,7 +23,7 @@ We design a game that empowers kids as agents of change, towards participation o
 
 ![](../images/fabacademy/creuar7.jpg)
 
-#### Personal Reflection
+### Personal Reflection
 
 During this term I am exploring "how to give voice to agents that do not have" and over time kids have been underrated in participating in decisions. This challenge was a good speculative design exercise for imagining a world where kids have a responsibility, validation among adults and shifting their role in society (empowered by the decisions we need to make as humanity). 
 
