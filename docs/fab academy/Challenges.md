@@ -11,7 +11,7 @@ For this challenge I worked with Borka and Anna, sharing our personal interests 
 
 The question we held was the trigger for developing the challenge: **How we encourage participation in kids?** and that is how **"CREUAR"** emerged. 
 
-![](../images/fabacademy/creuar1.jpg)
+![](../images/fabacademy/ch2.jpg)
 
 ### Why "CREUAR"?
 
@@ -21,7 +21,8 @@ We design a game that empowers kids as agents of change, towards participation o
 
 **In this repository link you can see all the documentation of the process and final results: <https://github.com/Anna-Mestres/fab_challenge_I>**
 
-![](../images/fabacademy/creuar7.jpg)
+![](../images/fabacademy/ch1.jpg)
+
 
 ### Personal Reflection
 
@@ -29,11 +30,10 @@ During this term I am exploring "how to give voice to agents that do not have" a
 
 As a team we managed to define our roles which led to a clarity in tasks, responsibility towards the process and collaborating with each other consistently. My main role was about co-developing the purpose of the game and the fabrication process, so my main working space was in the fablab with machines. It was the first time I used the laser cutting machine and I learned the parameters and process of doing a work with it.
 
-![](../images/fabacademy/creuar2.jpg)
-![](../images/fabacademy/creuar3.jpg)
-![](../images/fabacademy/creuar4.jpg)
-![](../images/fabacademy/creuar5.jpg)
-![](../images/fabacademy/creuar6.jpg)
+![](../images/fabacademy/ch3.jpg)
+![](../images/fabacademy/ch4.jpg)
+![](../images/fabacademy/ch5.jpg)
+![](../images/fabacademy/ch6.jpg)
 
 Observations:
 
@@ -47,7 +47,7 @@ Observations:
 
 - I need to keep on using CAD softwares for improving my skills drawing objects.
 
-
+![](../images/fabacademy/ch7.jpg)
 
 
 
