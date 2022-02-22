@@ -38,7 +38,7 @@ In groups we did experimentation of biomaterial recipes:
 ![](../images/emergenttech/pineresin.jpg)
 
 
-### Other biomaterial experimientation
+### Other biomaterial experimentation
 
 ![](../images/emergenttech/biomateriales.jpg)
 
