@@ -17,7 +17,7 @@ During this seminar we were introduced to biomaterials and had the opportunity o
 
 In groups we did experimentation of biomaterial recipes:
 
-### Gelatine
+#### Gelatine
 
 - 20gr gelatine
 - 250ml water
@@ -28,7 +28,7 @@ In groups we did experimentation of biomaterial recipes:
 ![](../images/emergenttech/gelatin.jpg)
 
 
-### Pine Resine
+#### Pine Resine
 
 - 45gr pine resine
 - 15ml alcohol
@@ -38,7 +38,7 @@ In groups we did experimentation of biomaterial recipes:
 ![](../images/emergenttech/pineresin.jpg)
 
 
-### Other biomaterial experimentation
+#### Other biomaterial experimentation
 
 ![](../images/emergenttech/biomateriales.jpg)
 
@@ -49,6 +49,69 @@ In the material scarcity moment that we are facing as humanity, it is necesarry 
 It is interesting to think the design of new products limited by the use of local biomaterials. This could open new insights for product outcomes and new innovation design opportunities. What if each product was determined by the excess of materials that are available in the near sorroundings?How many alternatives for the same final product can we imagine?
 
 ![](../images/emergenttech/otrosbiomateriales.jpg)
+
+
+### Materials in Context
+
+Around Poblenou we started searching for different material opportunities: human hair, coffee grounds, orange and other fruit peels, mejillones, meat and poultry oil and bread crumbs. 
+
+![](../images/emergenttech/materialscontext.jpg)
+
+We decided to work with **Bread Crumbs** because:
+
+- Many supppliers around the city (in Barcelona there is almost one bakery in each street)
+- Common and simple material with a high offering amount
+- Research about the bread loss: https://foodwin.org/wp-content/uploads/2018/01/Factsheet-Bread-Waste.pdf
+- Few biomaterials projects related to bread
+
+![](../images/emergenttech/cortadorapan.jpg)
+![](../images/emergenttech/migaspan.jpg)
+
+#### Material SWOT Analysis
+![](../images/emergenttech/swotpan.jpg)
+
+#### Cooking Process
+
+Two different recipes:
+
+**Recipe #1**
+-10g gelatin
+-125 ml water
+-7.5ml glycerin
+-2ml vinegar
+20g breadcrumbs
+![](../images/emergenttech/recipe11.jpg)
+![](../images/emergenttech/recipe12.jpg)
+
+**Recipe #2**
+-25g Pine resin
+-40g breadcrumbs
+-15ml alcohol
+-5g carnauba wax
+![](../images/emergenttech/recipe21.jpg)
+![](../images/emergenttech/recipe22.jpg)
+
+#### Results and Applications
+
+![](../images/emergenttech/panfinal1.jpg)
+
+![](../images/emergenttech/panfinal2.jpg)
+
+![](../images/emergenttech/panfinal3.jpg)
+
+- Bread crumbs surplust in bcn (“almost a bakery per street”)
+- The format of the food waste has to be passed through a process before making the biomaterial.
+- Opportunity for designing new projects (it can be eatable).
+
+#### Lifecycle of the material
+
+
+
+
+
+
+
+
 
 
 
