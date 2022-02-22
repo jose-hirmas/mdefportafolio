@@ -49,35 +49,19 @@ Link to a resume of the modelling process:
  **<https://media.giphy.com/media/G3Wwd3aioUqAAOJmPE/giphy.gif>**
 
 
+## W3 - Computer Control Cutting (CCC) (pending)
 
+## W4 - Electronics production
 
+During this week we were introduced to PCB (printed circuit board) and its fabrication process. I learned how soldering the smd components with a practical workshop.
+![](../images/fabacademy/soldando.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-W3 - Computer Control Cutting (CCC)
-
-
-W4 - Electronics production
 W5 - 3D printing and scanning
+
+
+
+
+
 W6 - Electronics design
 W7 - Computer-Controlled Machining
 W8 - Embedded Programming
