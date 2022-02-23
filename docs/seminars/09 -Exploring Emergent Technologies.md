@@ -72,7 +72,7 @@ It is interesting to think the design of new products limited by the use of loca
 
 Around Poblenou we started searching for different material opportunities: human hair, coffee grounds, orange and other fruit peels, mejillones, meat and poultry oil and bread crumbs. 
 
-![](../images/emergenttech/materialscontext.jpg)
+![](../images/emergenttech/materialsincontext.jpg)
 
 We decided to work with **Bread Crumbs** because:
 
