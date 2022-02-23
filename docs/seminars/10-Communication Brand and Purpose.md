@@ -5,6 +5,8 @@ hide:
 
 # Communication, Brand and Purpose
 
+> ## "Authenticity is allignment of head, mouth, heart and feet -thinking, saying, feeling and doing the same thing- consistently"
+
 During this seminar we have the opportunity to explore methods for generating meaningful ideas and projects, starting with ourselves. The most difficult challenge here is to really connect with "my own why" and use this as the starting point. In this context, I find very interesting to think about my role as a designer, trying to be consecuent between the things I do, I think and I feel. We discussed about some brands example that try to do this, and in the other hand the awareness about brands that still have only a financial objective. For me, authenticity and honesty is essential when communicating between people, so as for brands that need to be credible and consecuent too. 
 
 

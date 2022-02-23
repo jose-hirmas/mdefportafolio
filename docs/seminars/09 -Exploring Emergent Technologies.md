@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Exploring Emergent Technologies (in process)
+# Exploring Emergent Technologies
 
 > ## 
 
