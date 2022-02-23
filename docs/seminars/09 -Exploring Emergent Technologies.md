@@ -7,15 +7,25 @@ hide:
 
 > ## 
 
-## Remixing Materials 
+## Remixing Materials (part one)
 
-### Exploration
+### Inspiration 
 
-During this seminar we were introduced to biomaterials and had the opportunity of experimenting using different food waste. For this, I decided to collect food waste of my daily use: coffee grounds and tangerine peel.
+S-biotica, Remix el barrio, Anthropocene geology (nuclear explosions and plastiglomerates), MIT Media Lab, Dasha Plesen. 
+
+### Food Waste Manipulation
+
+During this seminar we were introduced to biomaterials and had the opportunity of experimenting using different food waste. 
+
+- Connect: Tangerines and coffee are part of the basic food I have almost everyday. I choose this materials for experimentation because it is a usual material (available almost everywhere) and there is oversupply in Barcelona. 
+- Collect: During one week I collected the coffee grounds (of the coffee I drinked) and the tangerine peel in different glass jars.
+- Dry: I used the oven for drying the food waste, putting the temperature low (50-70°C). The tangerine got dried and after I grind it. The coffee did not get so dry. (I loved the smell of my flat after using the oven!)
 
 ![](../images/emergenttech/mandarinacafe.jpg)
 
-In groups we did experimentation of biomaterial recipes:
+### Material exploration and properties
+
+In groups (with Aparna and Joaquin) we did experimentation of biomaterial recipes:
 
 #### Gelatine
 
@@ -27,6 +37,7 @@ In groups we did experimentation of biomaterial recipes:
 
 ![](../images/emergenttech/gelatin.jpg)
 
+*Properties:* renewable resource, hydrolyzed collagen derived from animals, local - waste from the meat, pork & fish industries, compostable, industrial use (gastronomy, medicine, farmaceutic).
 
 #### Pine Resine
 
@@ -37,12 +48,16 @@ In groups we did experimentation of biomaterial recipes:
 
 ![](../images/emergenttech/pineresin.jpg)
 
+*Properties:* renewable resource, natural resin derived from pines, local - Catalunya, antibacterial, biodegradable, 
+industrial use (paper, adhesives, paintings, coatings, farmaceutic).
 
 #### Other biomaterial experimentation
 
 ![](../images/emergenttech/biomateriales.jpg)
 
 It was the first time I experiment with these type of biomaterials and I was impressed by how the process is determined by handcrafting, in a way very similar to cooking food. Each ingredient amount, the heating temperature, the mixing order of each ingredient are significant things for the final result. For this reason, every small change affects the outcome. 
+
+The material design properties are also essential to understand possible applications so it is not only about the fabrication process , but also to complement this with technical, functional and emotional research about the material that you are exploring.
 
 In the material scarcity moment that we are facing as humanity, it is necesarry to keep on looking for alternatives that can be sustainable, being aware of their properties and potential use. The biomaterial production is highly determined by the local waste, making difficult to transform this alternatives in industrial production without harming the environment. For example: in Spanish coasts there is abundant Agar Agar or in Chilean coasts there is abundant sea shell, so each local biomaterials experimentation should use mainly this type of wastes. 
 
@@ -51,7 +66,9 @@ It is interesting to think the design of new products limited by the use of loca
 ![](../images/emergenttech/otrosbiomateriales.jpg)
 
 
-### Materials in Context
+## Remixing Materials (part two)
+
+### Materials in Context 
 
 Around Poblenou we started searching for different material opportunities: human hair, coffee grounds, orange and other fruit peels, mejillones, meat and poultry oil and bread crumbs. 
 
@@ -61,10 +78,9 @@ We decided to work with **Bread Crumbs** because:
 
 - Many supppliers around the city (in Barcelona there is almost one bakery in each street)
 - Common and simple material with a high offering amount
-- Research about the bread loss: https://foodwin.org/wp-content/uploads/2018/01/Factsheet-Bread-Waste.pdf
+- Research about the bread loss: <https://foodwin.org/wp-content/uploads/2018/01/Factsheet-Bread-Waste.pdf>
 - Few biomaterials projects related to bread
 
-![](../images/emergenttech/cortadorapan.jpg)
 ![](../images/emergenttech/migaspan.jpg)
 
 #### Material SWOT Analysis
@@ -80,31 +96,41 @@ Two different recipes:
 -7.5ml glycerin
 -2ml vinegar
 20g breadcrumbs
-![](../images/emergenttech/recipe11.jpg)
-![](../images/emergenttech/recipe12.jpg)
+
+![](../images/emergenttech/recipe1.jpg)
 
 **Recipe #2**
 -25g Pine resin
 -40g breadcrumbs
 -15ml alcohol
 -5g carnauba wax
-![](../images/emergenttech/recipe21.jpg)
-![](../images/emergenttech/recipe22.jpg)
+
+![](../images/emergenttech/recipe2.jpg)
+
+#### Lifecycle of the material
+
+![](../images/emergenttech/lifecycle.jpg)
 
 #### Results and Applications
 
-![](../images/emergenttech/panfinal1.jpg)
-
-![](../images/emergenttech/panfinal2.jpg)
-
-![](../images/emergenttech/panfinal3.jpg)
+![](../images/emergenttech/panfinal.jpg)
 
 - Bread crumbs surplust in bcn (“almost a bakery per street”)
 - The format of the food waste has to be passed through a process before making the biomaterial.
 - Opportunity for designing new projects (it can be eatable).
 
-#### Lifecycle of the material
 
+#### The Best: 
+- The cooking process freedom of exploration and the surprising feeling to see, touch smell (and taste) the final result. 
+
+#### Lessons Learned:
+- To understand the technical, functional and emotional properties is important when defining biomaterials for design. 
+- Material Library: Materiom
+- Exploration (doing) is an important process for imagining future applications.
+- The context affects the type of material that you can use, for making a sustainable fabrication process. 
+
+#### The Challenge:
+- Keep on trying different recipes and mixing materials for emerging new materials.
 
 
 
