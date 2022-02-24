@@ -35,6 +35,7 @@ Experience 2: my own education at school (feeling privileged in this).
 
 We constructed the pitch for a biomaterial exploration we made with Joaquin with bread crumbs. For this we went to a bakery next to IAAC and met "Visitación", an old lady that told us part of her story, her needs and dreams. With this we make a pitch based on her story, trying to communicate in an honest, direct and emotional way, showing the importance of bread and local bakeries for social development. 
 ![](../images/commbp/visitacion.jpg)
+![](../images/commbp/pitchcomm.jpg)
 
 #### The best: 
 - Make communication happen and reflect about it. I feel I need to communicate with others for my personal development, so always searching for new ways , and also explorign what communication means for non-humans.
