@@ -38,7 +38,7 @@ We constructed the pitch for a biomaterial exploration we made with Joaquin with
 ![](../images/commbp/pitchcomm.jpg)
 
 #### The best: 
-- Make communication happen and reflect about it. I feel I need to communicate with others for my personal development, so always searching for new ways , and also explorign what communication means for non-humans.
+- Make communication happen and reflect about it. I feel I need to communicate with others for my personal development, so always searching for new ways , and also exploring what communication means for non-humans, for things, for the relationships between they/them, and how communication is a powerful tool for creating realities.
 
 #### The Lessons Learned:
 - Keep it Simple Stupid (KISS): how we communicate is really about being clear and not complicated. It is about telling a story. 
