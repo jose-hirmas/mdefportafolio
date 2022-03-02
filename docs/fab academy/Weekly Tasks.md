@@ -56,13 +56,13 @@ Link to a resume of the modelling process:
 During this week we were introduced to PCB (printed circuit board) and its fabrication process. I learned how soldering the smd components with a practical workshop.
 ![](../images/fabacademy/soldando.jpg)
 
-W5 - 3D printing and scanning
+Te act of soldering was a concentration exercise, paying attention to things that we usually take for granted: breathing, pulse and focus. Being aware of how this affects the final result make me see and feel this workshop as a self awareness therapy. In a way, I felt relaxed and enjoying the process itself.
+ 
 
+## W5 - 3D printing and scanning (pending)
 
+## W6 - Electronics design
 
-
-
-W6 - Electronics design
 W7 - Computer-Controlled Machining
 W8 - Embedded Programming
 W9 - Mechanical/machine design

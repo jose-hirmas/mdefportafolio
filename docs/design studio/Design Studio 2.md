@@ -104,6 +104,27 @@ My project is about developing mecanisms of communication in the intervention.
 ### Intervention #2 (in process)
 
 
+Ideas:
+- The emergence of "Leaving Some Space". New website. 
+- Feeling embarrased, a bit silly and vulnerable with sharing my personal ideas of interventions. Just continue believing. Attitude and being brave. That is radical for me. 
+- We live in a world that is full of products and things, there are many things that we have for granted. What if we start paying attention to that things that are usually there (exist) but we do not pay attention. 
+
+- Int 2: Speech of the bench, of the chair, of the sea.
+
+
+- Int 2.1: Gravity Talks
+
+ Paying attention to how gravity works.
+
+ 
+
+
+
+
+
+
+
+
 
 
 
