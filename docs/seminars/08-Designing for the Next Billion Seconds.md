@@ -7,6 +7,7 @@ hide:
 
 > ## "A bad idea: teaching humans how to code and machines how to *learn*" (IAM Creative Research Lab)
 
+
 First of all, let me clear out: 
 #### 1 Billion Seconds = 31.7 years 
 
