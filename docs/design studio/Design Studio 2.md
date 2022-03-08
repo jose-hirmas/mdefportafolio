@@ -98,23 +98,63 @@ For exploring the perception of others (and collecting more data) a questionnair
 
 After this intervention I had the opportunity of talking to some people for feedback and also for searching ways of collaboration. During this process I managed to connect some dots in relation to my past work and my actual interests: what I have being doing in an invisible form is **"giving voice to agents that usually do not have it "**.
 
-My project is about developing mecanisms of communication in the intervention. 
+My project is about developing mecanisms of communication in the intervention. A new path of exploration emerged, i called it **LEAVING SOME SPACE**.
+
+*why?* **Searching new empathic relationships between humans and things**
+*how?* **Interventions that show the potential mechanisms of communication and new narratives for creating alternative realities**
+*why?* **Radical exploration and research practice for understanding the present and for imagining future(s)**
+
+*manifesto*
+We create realities from stories. A story can be good, bad, crazy, profound, happy, sad, funny, intense, boring, intimate. It can be whatever, depending of whom is telling it. What if we give a voice to agents that usually do not have it?
+
+Let us explore new narratives for communicating what is happening around. 
+Let us be truly responsible for generating awareness about critical scenarios.
+
+Let us LEAVE SOME SPACE for creating alternative realities.
+
+**link: <https://cargocollective.com/leavingsomespace/>**
+
+### Intervention #2: The Speech of Things
+
+What if we pay attention to everyday things and try to understand their existence?
+
+For this intervention I imagined that things around can have a different role for society. What if we see them from a spectator view, giving the opportunity to understand their role beyond their traditional being?
+
+#### Speech 1: The bench
+
+On top of a single bench of the park (Parque de la Ciutadella), I placed a small piece of cardboard written: “Do not miss this speech” and a qr-code that linked to the following question: “What do you think the bench wants to tell us?” and people could respond to it. I sat in the grass with my camera focusing the bench. I did the same in other benches of the park.
+
+What happened? Now one pays attention to the bench itself. It is just a utility for sitting in the park. The bench is a tool for humans who want to: rest in the park, have a conversation with someone else, eat something or just sit and stare at the surroundings. Only two young people saw the piece of cardboard and I think they tried to see what was the qr code about, but no responses for the question at all.
+
+After being a couple of hours in the park I felt a bit silly and frustrated because the intervention did not go as I was expecting. I also felt vulnerable and embarrassed about sharing my personal ideas or the “what was supposed to happen”. 
+
+When analyzing this, the radical concept comes to my mind. For me it is about believing in what you think, above all circumstances. Positive attitude, resilience and being brave are characteristics that build my radicality.
+
+Speech of the bench (as a personal reflection):
+
+*“No one cares about me. I am here all day, in the same position and place, waiting for someone to come. Sometimes the sun is drying my body, sometimes the rain makes me wet. Day and night. Waiting. Sooner or later humans sit on top of me, and I feel company. I listen to their stories. Witness a kiss. And just for some seconds, I feel I belong to a place."*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MaD3T9sJf48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Speech 2: The Chair
+
+In the MDEF classroom I took a black chair and put it on front with the same piece of cardboard that I had used before with the bench. I left it like that for one day. Anonymous people add ideas and collectively this speech was created:
+
+*Dear overweight humans,
+Hey there! Sit your tush right on over here. Please lose some weight. Your obesity strains my existence. I don’t care about your medical condition. Just pay me some respect, please.
+You people are strange. I've been observing you from time to time, you shift your weight. As a chair, I find this behavior bizarre. Please explain.
+I feel so exposed like this. Better to fold me up and put me in the corner.
+Help! I am being exploited as a prop in a design intervention! I have not consented to this!
+I can potentially change the world. Hahaha.
+Thanks, Chair.* 
+
+#### Speech 3: The Sea
 
 
-### Intervention #2 (in process)
 
+Int 2.1: Gravity Talks
 
-Ideas:
-- The emergence of "Leaving Some Space". New website. 
-- Feeling embarrased, a bit silly and vulnerable with sharing my personal ideas of interventions. Just continue believing. Attitude and being brave. That is radical for me. 
-- We live in a world that is full of products and things, there are many things that we have for granted. What if we start paying attention to that things that are usually there (exist) but we do not pay attention. 
-
-- Int 2: Speech of the bench, of the chair, of the sea.
-
-
-- Int 2.1: Gravity Talks
-
- Paying attention to how gravity works.
+Paying attention to how gravity works.
 
  
 
