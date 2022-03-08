@@ -37,7 +37,7 @@ Design a reel for a random object, spirit and segment. The spirit was “agoraph
 
 ![](../images/week01/Imagen agoraphobia.jpg)
 
-Here is a link with the final reel **<https://www.youtube.com/watch?v=YOFtGCziHsY>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOFtGCziHsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **The Imperfect Lamp (Fab Lab)**
 design and fabricate a lamp using 3d printers, digital design softwares and laser cutting machines. 

@@ -58,7 +58,8 @@ Human reactions (smiles):
 
 ![](../images/week67/humansmiles.jpg)
 
-**The Loner Booth Video:<https://youtu.be/VGzSk2XlD3k>**
+**The Loner Booth Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGzSk2XlD3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this link is the *presentation*: 
 **<https://docs.google.com/presentation/d/1R_QlpASGupockWAJxV_IFKaKJ-OMxydYArBRfEmzGw0/edit#slide=id.p>**
@@ -74,7 +75,8 @@ Creating a useless machine was very useful for understanding the process and thr
 7. Everyone better talk. Try so.
 
 You can see the video of this documentation process here: 
-<https://youtu.be/oPLxU-qrUXc>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPLxU-qrUXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### The best: 
 - Putting in action electronics and fabrication. It is great when machines work!

@@ -39,8 +39,7 @@ The day of the experiment almost all the class participated, many exciting faces
 
 Meanwhile everyone was eating and sharing I made some short interviews just to know the feelings and thoughts about this food experience. 
 
-In this link you can see a **Video of Positive Foods**: 
-**<https://www.youtube.com/watch?v=qH2-d3UDoYI>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qH2-d3UDoYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Conclusions:
 
@@ -76,9 +75,7 @@ The text input is cronologically captured transforming sentences into small "quo
 
 The result is an abstract, deep and poetic set of quotes summarizing the documentation process.
 
-In this link you can see the video **"Words that Create Realities"**: 
-
-<https://www.youtube.com/watch?v=oPLxU-qrUXc>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPLxU-qrUXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video shows 7 different "quote stories", each one is an act that can be interpreted in any way. Sound is used as a complementary tool to guide the viewer and help in the imagination of new realities. 
 
@@ -187,8 +184,8 @@ Insights:
 
 - Grafitti painting was introduced by Nikita in his own learning map.
 
-**Aprendizaje Emocionante** video link: 
-**<https://video.ploud.fr/w/ea3JsvkrQrVPbxwr4Y7gpr>**
+<iframe src="https://player.vimeo.com/video/682893774?h=2c6d5143e3" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 #### Why the intervention was important for me?
 

@@ -68,7 +68,8 @@ I am interested in emotional design, maker education, sharing with others and so
 
 I enjoyed this experience and to see the resume videos of all my classmates makes me know them in a more deeper way. Each one with their own ideas and styles, similar purposes and causes, but different point of views. 
 
-**Emotional Fabrication Video: <https://youtu.be/_C4YmmYX1FQ>**
+**Emotional Fabrication Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_C4YmmYX1FQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Autoethnography
 

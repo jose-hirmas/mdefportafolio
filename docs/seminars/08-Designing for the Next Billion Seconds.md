@@ -11,7 +11,7 @@ hide:
 First of all, let me clear out: 
 #### 1 Billion Seconds = 31.7 years 
 
-**The melting world (for inspiration): <https://youtu.be/xsBV5k7VWII>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsBV5k7VWII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 During this week we discuss and reflect about future(s), time, the everything, technology, human beings and the planet, making important questions that triggers:
 
