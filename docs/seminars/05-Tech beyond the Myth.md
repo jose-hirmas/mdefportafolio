@@ -58,12 +58,10 @@ Human reactions (smiles):
 
 ![](../images/week67/humansmiles.jpg)
 
-
-In this link is the *video*: **<https://youtu.be/VGzSk2XlD3k>**
+**The Loner Booth Video:<https://youtu.be/VGzSk2XlD3k>**
 
 In this link is the *presentation*: 
 **<https://docs.google.com/presentation/d/1R_QlpASGupockWAJxV_IFKaKJ-OMxydYArBRfEmzGw0/edit#slide=id.p>**
-
 
 Creating a useless machine was very useful for understanding the process and through out my own documentation I can reflect and share some abstract, deep and poetic personal thoughts:
 
@@ -76,9 +74,7 @@ Creating a useless machine was very useful for understanding the process and thr
 7. Everyone better talk. Try so.
 
 You can see the video of this documentation process here: 
-**<https://www.youtube.com/watch?v=oPLxU-qrUXc>**
-
-
+<https://youtu.be/oPLxU-qrUXc>
 
 #### The best: 
 - Putting in action electronics and fabrication. It is great when machines work!
