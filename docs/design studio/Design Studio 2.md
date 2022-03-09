@@ -158,16 +158,7 @@ Thanks, Chair.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P13mhUg4JQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
-Int 2.1: Gravity Talks
-
-Paying attention to how gravity works.
-
- 
-
+![](../images/designstudio/speechofthesea.jpg)
 
 
 
