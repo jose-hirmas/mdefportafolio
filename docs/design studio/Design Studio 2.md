@@ -100,19 +100,23 @@ After this intervention I had the opportunity of talking to some people for feed
 
 My project is about developing mecanisms of communication in the intervention. A new path of exploration emerged, i called it **LEAVING SOME SPACE**.
 
-*why?* **Searching new empathic relationships between humans and things**
-*how?* **Interventions that show the potential mechanisms of communication and new narratives for creating alternative realities**
-*why?* **Radical exploration and research practice for understanding the present and for imagining future(s)**
+*why?* 
+**Searching new empathic relationships between humans and things**
+
+*how?* 
+**Interventions that show the potential mechanisms of communication and new narratives for creating alternative realities**
+
+*why?* 
+**Radical exploration and research practice for understanding the present and for imagining future(s)**
 
 *manifesto*
-We create realities from stories. A story can be good, bad, crazy, profound, happy, sad, funny, intense, boring, intimate. It can be whatever, depending of whom is telling it. What if we give a voice to agents that usually do not have it?
-
+**We create realities from stories. A story can be good, bad, crazy, profound, happy, sad, funny, intense, boring, intimate. It can be whatever, depending of whom is telling it. What if we give a voice to agents that usually do not have it?
 Let us explore new narratives for communicating what is happening around. 
 Let us be truly responsible for generating awareness about critical scenarios.
-
-Let us LEAVE SOME SPACE for creating alternative realities.
+Let us LEAVE SOME SPACE for creating alternative realities.**
 
 **link: <https://cargocollective.com/leavingsomespace/>**
+
 
 ### Intervention #2: The Speech of Things
 
@@ -140,6 +144,7 @@ Speech of the bench (as a personal reflection):
 
 In the MDEF classroom I took a black chair and put it on front with the same piece of cardboard that I had used before with the bench. I left it like that for one day. Anonymous people add ideas and collectively this speech was created:
 
+![](../images/designstudio/speechchair.jpg)
 *Dear overweight humans,
 Hey there! Sit your tush right on over here. Please lose some weight. Your obesity strains my existence. I don’t care about your medical condition. Just pay me some respect, please.
 You people are strange. I've been observing you from time to time, you shift your weight. As a chair, I find this behavior bizarre. Please explain.
@@ -149,6 +154,10 @@ I can potentially change the world. Hahaha.
 Thanks, Chair.* 
 
 #### Speech 3: The Sea
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P13mhUg4JQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
