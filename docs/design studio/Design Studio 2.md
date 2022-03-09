@@ -144,7 +144,6 @@ Speech of the bench (as a personal reflection):
 
 In the MDEF classroom I took a black chair and put it on front with the same piece of cardboard that I had used before with the bench. I left it like that for one day. Anonymous people add ideas and collectively this speech was created:
 
-![](../images/designstudio/speechchair.jpg)
 *Dear overweight humans,
 Hey there! Sit your tush right on over here. Please lose some weight. Your obesity strains my existence. I don’t care about your medical condition. Just pay me some respect, please.
 You people are strange. I've been observing you from time to time, you shift your weight. As a chair, I find this behavior bizarre. Please explain.
@@ -152,6 +151,8 @@ I feel so exposed like this. Better to fold me up and put me in the corner.
 Help! I am being exploited as a prop in a design intervention! I have not consented to this!
 I can potentially change the world. Hahaha.
 Thanks, Chair.* 
+![](../images/designstudio/speechchair.jpg)
+
 
 #### Speech 3: The Sea
 
