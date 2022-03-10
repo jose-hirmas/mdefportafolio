@@ -29,6 +29,19 @@ hide:
 
 ### Talk 4: Saul Baeza
 
+- I was inspired by the concept of radical design and going further on our own boundaries. This radicality happens always in a context, so what is radical for me is different than from anybody else. Sometimes to go further, means to go back to the roots (to the basis).
+- The exploration is a thing in itself, do not expect a specific outcome.
+- Good examples of how our body is a tool for exploring and understanding life, society and the world.
+
+### Talk 4: Ron Wakkary
+
+- I was inspired by the idea of the gathering of humans and non humans for the intention of designing something. 
+- In "design with" concept, we are all interconected (relationality) and things have their own agency.
+- How do we co-habit this more than human world? Biographies are made of different biographies. There is a "speaken subject" that narrates it.
+- When will a biography end?, and what is left behind?
+
+
+
 
 
 
