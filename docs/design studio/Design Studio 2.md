@@ -117,6 +117,8 @@ Let us LEAVE SOME SPACE for creating alternative realities.**
 
 **link: <https://cargocollective.com/leavingsomespace/>**
 
+![](../images/designstudio/leavingspacecanvas.jpg)
+
 
 ### Intervention #2: The Speech of Things
 
@@ -138,7 +140,7 @@ Speech of the bench (as a personal reflection):
 
 *“No one cares about me. I am here all day, in the same position and place, waiting for someone to come. Sometimes the sun is drying my body, sometimes the rain makes me wet. Day and night. Waiting. Sooner or later humans sit on top of me, and I feel company. I listen to their stories. Witness a kiss. And just for some seconds, I feel I belong to a place."*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MaD3T9sJf48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_KDVe4FB80k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Speech 2: The Chair
 
@@ -156,9 +158,27 @@ Thanks, Chair.*
 
 #### Speech 3: The Sea
 
+One day walking on the coast, I noticed that the sea itself was telling us something special. I grab my phone and start filming this. Instead of trying to understand and explain the speech you can see the speech itself.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P13mhUg4JQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](../images/designstudio/speechofthesea.jpg)
+
+
+#### Speech 4: Gravity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2LuRxbUdoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](../images/designstudio/gravity1prot1.jpg)
+![](../images/designstudio/gravity1prot2.jpg)
+![](../images/designstudio/gravity1prot3.jpg)
+
+
+
+
+
+
+
 
 
 
