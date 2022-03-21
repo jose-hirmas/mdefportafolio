@@ -41,7 +41,25 @@ hide:
 - When will a biography end?, and what is left behind?
 
 
+#### Final Reflection
 
+*Who you are?*
+
+I am a human being. I am son, grandson, brother, uncle, friend, husband. I am strongly attached to my emotions and aware of what is happening around me. I get inspired by people. I need social interaction to grow, to change, to live. 
+
+It is difficult to define myself, so it is easy to say that I feel like a multidisciplinary professional: study commercial engineering as undergraduate, study acting and theater, specialize in innovation methodologies, teach in different educational contexts, cofounded a B corp that works with communities, and now expanding my career through design and technology for emergent futures. I have never like tags or job titles but know it is to simplify reality and who we are or what we do. For me it would be: Social entrepreneur, business designer & educator. Interested in design as a tool for social transformation and the generation of positive impact for the future(s).
+
+I am passionate about fabrication process (the doing), art as a social agent of expression and food culture.
+
+*What makes you unique (identity)?*
+
+The way I built relationships with people.
+
+*Personal “vision” of your future as a professional*
+
+Design Researcher and Social Doer. I want to feel as a permanent learner, exploring new things beyond boundaries, constructing alternative presents and imagining emergent futures. I want to continue my radical design journey as a trigger for generating awareness about critical scenarios. I want to continue discovering things, but not in only in a theoretical form but with my feet in the street. Doing what is needed, always with a social sense.
+
+I feel responsible for what is happening and also I feel I have the power to make a positive change.
 
 
 

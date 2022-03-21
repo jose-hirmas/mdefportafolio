@@ -98,7 +98,8 @@ For exploring the perception of others (and collecting more data) a questionnair
 
 After this intervention I had the opportunity of talking to some people for feedback and also for searching ways of collaboration. During this process I managed to connect some dots in relation to my past work and my actual interests: what I have being doing in an invisible form is **"giving voice to agents that usually do not have it "**.
 
-My project is about developing mecanisms of communication in the intervention. A new path of exploration emerged, i called it **LEAVING SOME SPACE**.
+My project is about developing mecanisms of communication in the intervention. A new path of exploration emerged, I called it 
+##### **LEAVING SOME SPACE**.
 
 *why?* 
 **Searching new empathic relationships between humans and things**
@@ -171,20 +172,31 @@ One day walking on the coast, I noticed that the sea itself was telling us somet
 
 ![](../images/designstudio/gravity1prot1.jpg)
 ![](../images/designstudio/gravity1prot2.jpg)
+
 ![](../images/designstudio/gravity1prot3.jpg)
 
 
+#### Lessons Learned
+- Things have agency and are meaningful in a context. Also everything is in relation to another. For example: a wave is the relationship between a specific amount of wind, a portion of the sea, and the location of the moon. In a way, these three things are aligned in a unique form that create what we humans call “wave”. What about other agents we are not aware of that affect the fabrication of this wave? How we find these invisible relations that make the reality possible?
+- For me, "to design" means to understand the relationship between humans and non- humans. In this matter, relationality is fundamental when describing the being. Exploring the interconnection between everyone and everything, and discovering hidden forces of ecology can be a trigger for shifting our role in the world.
+- When I say “things” I mean “everything and everyone that exists”. Things do not exist without other things around. When changing this context where things emerge, new things appear. This is attached to the biography of each thing. Each biography is a story, and each story has a unique meaning due to a context.
+- Senses are the human tools for creating and understanding reality. Each thing (interconnection in a context) is also a message. Messages construct narratives, and these narratives are usually curated by humans thanks to communication. The way we communicate in a traditional present or to “have voice” is primary human centered, and the reality is created from this empowered point of view.
+
+
+#### For the Future(s)
+- How we find invisible (and new) relations between humans and non humans that make the alternative realities possible and generate positive impact?
+- What if we could find new relationships that help overcome critical escenarios of the present? 
+- Making an art exhibition for reflection. Is awareness the first step for generating change? How to provoke humans?
+
+
+### Intervention #3: Inmigrant Beer (in process)
 
 
 
 
 
 
-
-
-
-
-
+### Intervention #4: 
 
 
 
