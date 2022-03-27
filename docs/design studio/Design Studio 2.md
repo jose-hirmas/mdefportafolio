@@ -189,7 +189,38 @@ One day walking on the coast, I noticed that the sea itself was telling us somet
 - Making an art exhibition for reflection. Is awareness the first step for generating change? How to provoke humans?
 
 
-### Intervention #3: Inmigrant Beer (in process)
+### Intervention #3: Immigrant Beer (in process)
+
+*Why*
+
+This intervention is about exploring the relationship between immigrants and beer.
+
+I have a special relationship with beer. I love to taste different types of beer and is as a trigger for generating a conversation and creating community. During the last months I started crafting my own beer at my house, so apart from enjoying its flavour, aroma, color and branding, I began understanding its fabrication process. Little by little it is transforming in a passion. 
+
+Also, living in Barcelona has make me aware of what it feels and means to be an immigrant. It is the first time in my life I feel it in a personal form. 
+
+What if beer can represent an immigrant's point of view?
+
+How to embed immigrant’s feelings, thoughts, and experience into a bottle of beer?
+
+*What*
+
+Crafting beer with a group of immigrants and sharing personal thoughts, feelings and stories.
+
+*How*
+
+I lead a collective beer brewing workshop where we talked about immigration and how beer can represent us. Participants where invited and they need to meet two requirements: 
+1. Consider themselves as immigrants.
+2. Consider themselves beer lovers.
+
+
+Process
+
+Results
+
+
+
+
 
 
 

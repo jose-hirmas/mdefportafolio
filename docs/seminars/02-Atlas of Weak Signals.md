@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
+# Atlas of Weak Signals (Term 1)
 
 > ## "Lo esencial es invisibles a los ojos" (Antoine de Saint-Exupéry)
 
@@ -100,6 +100,58 @@ the amazing view from the top of the mountain.
 #### The challenges:
 - Change my mindset to exploration and observation in every day.
 - Visit new places to get inspired.
+
+
+# Atlas of Weak Signals (Term 2)
+
+This seminar was about talking, discussing and reflecting about "the elephant in the room", specifically of how we are developing (or undeveloping) as humanbeings and the relations that we have with nature. 
+
+The first class was a roadmap of the world divided into 4 stages: awareness with what is happening (telling the truth), how everything changes (mutation), what is the plan for the future, and actions that are helping to balance and solve social and ecological issues. I got inspired by some art exhibitions and examples that try to generate awareness about critical scenarios: Olafur Elliason's ice watch, the concept of hyperobject, the mutation of chicken, plastiglomerates, Donna Haraway's becoming with.
+
+The second class was about introducing the concept of surveillance capitalism, and how human phsycology is directly attached to the use of internet and world wide web ("we are working but we are not aware of that"). We discussed about fake news, attention economy and engagement, extreme personalization, data extractivism, and that we are beggining this new age of web3: crypto, blockchain and DAO (distributed autonomy organization). 
+
+The third class was about defining what is a job, what it means to work in an era of automatization and AI. Reflecting on what will people do with robots replacing us in traditional jobs. We are facing an uncertain job security for the future that may paralize us or be the trigger to change the perspective and way of living ("yay a robot took over my job, now I can enjoy life"). A new concept arises here: the caring economy.
+
+The fourth class was about "after the nation-state", defining the difference between "nation" (culture and people) and "state" (politics). We had to respond: Where are we from? so it was very interesting to reflect about my own life because I feel chilean but not latin and have palestinian, hungarian and spanish roots. After seeing the video of the class, new concepts appear such as: rural-urban division, anti immigration movements and refugees. Also the question that arises is: Is there an alternative of a political-social organization that is not a nation-state? Weak signals: global movements, tech that bypasses state control, new infraestructural wars, relocating nations because of climate crisis, new colonialisms. The wish-list: global finance regulation, global flexible democracy and a new shape of citizenship. 
+
+## Reflection
+
+I have lived all my life in Santiago de Chile, a city that for the last 30 years has been very stable in terms of political, social and economic growth, and feel very privileged to have had a good quality of life, which in some way is luck. Since my early professional career I had tried to move from my state of comfort, having the opportunity to know and feel the other side of Chile, understanding the main problems that we are facing as a nation-state. Also feeling very responsible and with the power to help and make changes. Silently the problems began to grow, and we hide them with this "false hapinness economic growth". The last 3 years all this "false happiness" and the people's feelings began to be visible, uncovering the pot of a social crisis that affects everyone. This local movement has make us aware and unstable basic principles of the way we live. Moreover the pandemic has added changes of paradigms and lifestyles.
+
+The first step is "opening your eyes" and see beyond what you have always seen. Going out of Chile, and living in Barcelona, that is a multicultural city, has make me aware of some critical issues that we are facing as humanity. I feel sensibility for immigrants and refugees, in a way because is part of my personal family story, but also because for the first time I am living with the immigrant perception.
+
+In relation to technology, as a young student I had access to internet and social media, but never was too enthusiastic about it so i have always preferred direct relationships and traditional ways of communicating. Maybe this is because emotions and energy are important and feels as a necesity to be in direct contact with other humans. In this matter, during the last years, to work from my computer has been a challenge and when spending too much time in front of the screen I feel the necessity to reconect with the "real world". I am not afraid of automatization because I think humans can not be replaced 100%.
+
+Where do I come from? I feel very chilean and this means that I am part of a country that was built and has grow with the immigrants coming over the years. I love the landscapes of Chile, the food and the people that I am sorrounded. The mix of cultures has been present in my life, in my case palestinian ancestry mixed with hungarian and spanish roots. When I see now new refugees (mainly from central america) coming to my country in search for opportunities I feel empathy. 
+
+Another idea is that for me Chile is not part of Latin America. We are so different to other countries that are in the same continent, and sometimes I feel we are alone, isolated and not wanting to be part of the south american culture. I believe that a community gets richer when you have different backgrounds trying to decide about how we live, what we need and what we want. Why do walls between countries still exist? I think there is fear and feeling vulnerable, lack of communication marked with prejudices and fake news. From each state there is a sense of competition based on the capitalist model, that has polarized the society, individualizing benefits and misunderstanding that we are all part of the same world.
+
+Let us not take the sense of community for granted. We need to talk more to others. We need to listen more to others. And convince ourselves that we are all interconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
