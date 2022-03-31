@@ -133,8 +133,7 @@ Two different recipes:
 - Keep on trying different recipes and mixing materials for emerging new materials.
 
 
-
-
+## Collective Intelligence
 
 
 

@@ -213,21 +213,28 @@ I lead a collective beer brewing workshop where we talked about immigration and 
 1. Consider themselves as immigrants.
 2. Consider themselves beer lovers.
 
+And we make beer together:
+![](../images/designstudio/beercraft1.jpg)
 
-Process
+During the process we shared thoughts about immigration and our own experience. For this I prepared some questions that guided the conversation:
+- Who are you? Describe yourself from a *immigrant perspective* and from a *beer perspective*.
+- Imagine that this beer represents an immigrant. How would the beer be?
+![](../images/designstudio/beercraft2.jpg)
 
-Results
+*Results*
+
+The beer is now in the process of fermentation and gasification (30 days). 
+Everyone responded a survey after the intervention, so this is the data collected:
+![](../images/designstudio/beercraft2.jpg)
+
+For me, it was a very interesting and enjoying intervention because of the special attachment I have to beer craft, and also it served as an excuse to talk in deep about where we come from.
+
+(in process)
 
 
 
 
-
-
-
-
-
-
-### Intervention #4: 
+### Intervention #4 (in process)
 
 
 

@@ -50,11 +50,10 @@ Observations:
 ![](../images/fabacademy/ch7.jpg)
 
 
+## Challenge #2: Develop an artifact “that allows you to explain your project to others” or “interact with others so that they understand your research project.”
 
 
-
-
-
+For this challenge I worked with Angel and Aparna.
 
 
 
