@@ -219,22 +219,23 @@ And we make beer together:
 During the process we shared thoughts about immigration and our own experience. For this I prepared some questions that guided the conversation:
 - Who are you? Describe yourself from a *immigrant perspective* and from a *beer perspective*.
 - Imagine that this beer represents an immigrant. How would the beer be?
+
 ![](../images/designstudio/beercraft2.jpg)
 
 *Results*
 
 The beer is now in the process of fermentation and gasification (30 days). 
 Everyone responded a survey after the intervention, so this is the data collected:
-![](../images/designstudio/beercraft2.jpg)
+![](../images/designstudio/beercraft3.jpg)
 
-For me, it was a very interesting and enjoying intervention because of the special attachment I have to beer craft, and also it served as an excuse to talk in deep about where we come from.
+It was a very interesting and I enjoyed the intervention because of the special attachment I have to beer craft, and also it served as an excuse to talk in deep about where we come from. 
 
 (in process)
 
 
 
 
-### Intervention #4 (in process)
+### Intervention #4: Biography of Dead Things
 
 
 
