@@ -189,7 +189,7 @@ One day walking on the coast, I noticed that the sea itself was telling us somet
 - Making an art exhibition for reflection. Is awareness the first step for generating change? How to provoke humans?
 
 
-### Intervention #3: Immigrant Beer (in process)
+### Intervention #3: Immigrant Beer
 
 *Why*
 
@@ -235,7 +235,6 @@ After 30 days...
 
 ![](../images/designstudio/beercraft5.jpg)
 
-
 #### Lessons Learned
 - Objects have data embedded that transforms them into unique and meaningful pieces for people. The same object can have infinite meanings and ways of understanding, depending on the relationship each have with an individual. When you scratch the surface of an object, you can understand many things about the history, the environment and about the "owner".
 - Sharing food is a good exercise to start a conversation. The vibe that is generated around the table and around the cooking it allows humans to open themselves and express in a different way. 
@@ -243,19 +242,14 @@ After 30 days...
 - The boundaries of " being a citizen" have change and the question "where are you from" is not easy to respond. In todays hiperconnected world, the concept of immigration has shift, and people do not feel to belonging to one single place, but new generations feel more part of a whole world. 
 - Everything that happens in the world affect in some way to everyone.
 
-
 #### For the Future(s)
 - Try brewing new beer recipes and explore different ingredients. More playing and discovering is required for a special result. Map craft beer brewing places and contact them.
 - Go deep in the concept of migration and the "humans of the world" definition. 
 
 
+### Design Dialogues 2
 
-
-
-
-
-
-
+I presented **Leaving Some Space** that is my 
 
 
 
