@@ -199,9 +199,9 @@ I have a special relationship with beer. I love to taste different types of beer
 
 Also, living in Barcelona has make me aware of what it feels and means to be an immigrant. It is the first time in my life I feel it in a personal form. 
 
-What if beer can represent an immigrant's point of view?
+**What if beer can represent an immigrant's point of view?**
 
-How to embed immigrant’s feelings, thoughts, and experience into a bottle of beer?
+**How to embed immigrant’s feelings, thoughts, and experience into a bottle of beer?**
 
 *What*
 
@@ -217,6 +217,7 @@ And we make beer together:
 ![](../images/designstudio/beercraft1.jpg)
 
 During the process we shared thoughts about immigration and our own experience. For this I prepared some questions that guided the conversation:
+
 - Who are you? Describe yourself from a *immigrant perspective* and from a *beer perspective*.
 - Imagine that this beer represents an immigrant. How would the beer be?
 
@@ -226,9 +227,11 @@ During the process we shared thoughts about immigration and our own experience. 
 
 The beer is now in the process of fermentation and gasification (30 days). 
 Everyone responded a survey after the intervention, so this is the data collected:
+
 ![](../images/designstudio/beercraft3.jpg)
 
 It was a very interesting and I enjoyed the intervention because of the special attachment I have to beer craft, and also it served as an excuse to talk in deep about where we come from.
+
 ![](../images/designstudio/beercraft4.jpg)
 
 After 30 days...
@@ -249,7 +252,36 @@ After 30 days...
 
 ### Design Dialogues 2
 
-I presented **Leaving Some Space** that is my 
+I presented the collection of my explorations and interventions of this term: 
+
+**Leaving Some Space**
+(because everything and everyone have something to say)
+
+- Exploring new narratives for what is happening around
+- Taking responsibility and generating awareness about critical scenarios
+- Developing alternative mechanisms for communication in interventions 
+
+![](../images/designstudio/lss.jpg)
+
+As part of my project, I included the intervention **Biography of Dead Ideas**. The interaction with the participants, playing and discovering the artifact made me realize the potential of this type of spaces, and the following tasks for going further with my project.
+
+![](../images/designstudio/lss1.jpg)
+
+Design Dialogues 2 was a nice space to share my personal thoughts and ideas with my classmates and special guests, which gave me feedback about my work. Also I had the opportunity of knowing deeper on my classmates projects, feeling inspired and with new ideas for the following term. 
+
+I felt relax and also proud of my project development.
+
+![](../images/designstudio/dd2.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 

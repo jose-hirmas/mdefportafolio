@@ -5,7 +5,8 @@ hide:
 
 # Challenges
 
-## Challenge #1: Design and make “something” that can help the process of designing/creating/thinking/collaborating with others
+## Challenge #1: 
+### Design and make “something” that can help the process of designing/creating/thinking/collaborating with others
 
 For this challenge I worked with Borka and Anna, sharing our personal interests and defining the group topic as: **Participatory games for shared realities**.
 
@@ -50,7 +51,8 @@ Observations:
 ![](../images/fabacademy/ch7.jpg)
 
 
-## Challenge #2: Develop an artifact “that allows you to explain your project to others” or “interact with others so that they understand your research project.”
+## Challenge #2: 
+### Develop an artifact “that allows you to explain your project to others” or “interact with others so that they understand your research project.”
 
 For this challenge I worked with Angel and Aparna, sharing our individual interests and getting to intersect the topics of: culture, new narratives and collective biographies. During the first day we discussed about our ideas, getting inpsired with references, making some sketches and defining what we want to show on Design Dialogues 2. 
 
