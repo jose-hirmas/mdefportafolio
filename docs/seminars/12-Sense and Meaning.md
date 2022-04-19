@@ -6,7 +6,7 @@ hide:
 # Making Sense and Meaning
 
 
-## **THOUGHTS ABOUT RELATHIONSHIPS FOR AN EVOLUTIVE REALITY**
+## **THOUGHTS ABOUT RELATIONSHIPS FOR AN EVOLUTIVE REALITY**
 By: José Hirmas Stark
 
 
@@ -22,6 +22,8 @@ What if we give voice to agents that usually do not have it? How to understand l
 
 This paper explores the role of communication for existence, the emergent relationships between humans and non-humans and the boundaries of the message and the messenger for the appearance of a new being. Design can save the world, with empathy as a core value for relationships that go beyond any imagined scenario. Exploring these hidden relationships and finally revealing that reality has always meant to be a specific form of ordering things in a context, is a must for emergent futures. Design for no one and for nobody, do not take relationships for granted and be brave in rethinking things by changing context, because everything and everyone have something to say, to participate and to be. 
 
+
+![](../images/sensemeaning/speechofthesea1.jpg)
 
 
 ### New Relationships
