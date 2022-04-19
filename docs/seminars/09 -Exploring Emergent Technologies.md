@@ -135,6 +135,11 @@ Two different recipes:
 
 ## Collective Intelligence
 
+During this seminar we were introduced to the foundations of the internet and the current status of the web, understanding the way of communication is about protocols (and not plataforms). In a big piece of paper we understood how "the cloud" works in a real world, and that everything is more tangible than we thought (the cloud really exists).
+
+Also we had the presentation of Ethereum and an introduction to DAO, bitcoins and blockchain. I set a list of how the world is right now and the emerging issues we are facing as society: breaking of social contract, internet and communication, polarized planet, climate emergency, descentralization of organizations, inmigration, new relationships, post human approach, the end of capitalism. 
+
+For the readings I found interesting the concept of the Dunbar´s number (150) as a maximum number of relationships a person can mantain, were people can cooperate in an organic way. Also the concept of sociocracy, being an alive organism that self-organizes and self-develops, and the principles behind holocracy. When generating an decentralized and autonomous organization there are some tips that may be significant: make the implicit explicit, give authority to people that do the work, have the opportunity to grow, have different roles, balance de planning and doing.
 
 
 
