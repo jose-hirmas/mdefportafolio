@@ -3,7 +3,9 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals (Term 1)
+# Atlas of Weak Signals
+
+## Term 1
 
 > ## "Lo esencial es invisibles a los ojos" (Antoine de Saint-Exupéry)
 
@@ -102,7 +104,7 @@ the amazing view from the top of the mountain.
 - Visit new places to get inspired.
 
 
-# Atlas of Weak Signals (Term 2)
+## Term 2
 
 This seminar was about talking, discussing and reflecting about "the elephant in the room", specifically of how we are developing (or undeveloping) as humanbeings and the relations that we have with nature. 
 
@@ -114,7 +116,7 @@ The third class was about defining what is a job, what it means to work in an er
 
 The fourth class was about "after the nation-state", defining the difference between "nation" (culture and people) and "state" (politics). We had to respond: Where are we from? so it was very interesting to reflect about my own life because I feel chilean but not latin and have palestinian, hungarian and spanish roots. After seeing the video of the class, new concepts appear such as: rural-urban division, anti immigration movements and refugees. Also the question that arises is: Is there an alternative of a political-social organization that is not a nation-state? Weak signals: global movements, tech that bypasses state control, new infraestructural wars, relocating nations because of climate crisis, new colonialisms. The wish-list: global finance regulation, global flexible democracy and a new shape of citizenship. 
 
-## Reflection
+### Reflection
 
 I have lived all my life in Santiago de Chile, a city that for the last 30 years has been very stable in terms of political, social and economic growth, and feel very privileged to have had a good quality of life, which in some way is luck. Since my early professional career I had tried to move from my state of comfort, having the opportunity to know and feel the other side of Chile, understanding the main problems that we are facing as a nation-state. Also feeling very responsible and with the power to help and make changes. Silently the problems began to grow, and we hide them with this "false hapinness economic growth". The last 3 years all this "false happiness" and the people's feelings began to be visible, uncovering the pot of a social crisis that affects everyone. This local movement has make us aware and unstable basic principles of the way we live. Moreover the pandemic has added changes of paradigms and lifestyles.
 
