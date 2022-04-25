@@ -33,7 +33,7 @@ hide:
 - The exploration is a thing in itself, do not expect a specific outcome.
 - Good examples of how our body is a tool for exploring and understanding life, society and the world.
 
-### Talk 4: Ron Wakkary
+### Talk 5: Ron Wakkary
 
 - I was inspired by the idea of the gathering of humans and non humans for the intention of designing something. 
 - In "design with" concept, we are all interconected (relationality) and things have their own agency.

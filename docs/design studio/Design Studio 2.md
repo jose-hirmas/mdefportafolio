@@ -267,6 +267,10 @@ As part of my project, I included the intervention **Biography of Dead Ideas**. 
 
 ![](../images/designstudio/lss1.jpg)
 
+<iframe src="https://player.vimeo.com/video/702921447?h=d5e95c7779" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/702921447">Biography of Dead Ideas</a> from <a href="https://vimeo.com/user158249751">Jose Hirmas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 Design Dialogues 2 was a nice space to share my personal thoughts and ideas with my classmates and special guests, which gave me feedback about my work. Also I had the opportunity of knowing deeper on my classmates projects, feeling inspired and with new ideas for the following term. 
 
 I felt relax and also proud of my project development.
