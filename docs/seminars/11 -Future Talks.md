@@ -41,6 +41,11 @@ hide:
 - When will a biography end?, and what is left behind?
 
 
+### Talk 6: Nicolas Viollier
+- I was inspired by the way he has managed to transform the alternative present speculation into a reality. It was a great example of how to use the present to imagine the future in a tangible way. 
+- We are multidisciplinary beings, so we can use many tools and resources, be in many places during the day, and work in different proyects that connect in purpose. In order to make the "new me" real, you have to combine the opportunities that arise.
+
+
 #### Final Reflection
 
 *Who you are?*
