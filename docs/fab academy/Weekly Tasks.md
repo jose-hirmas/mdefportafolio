@@ -126,17 +126,26 @@ This week I used to task to continue my project about food design, helping me un
 ![](../images/fabacademy/fabtask9_10.jpg)
 
 
-## W10&13 - Input and outputs (pending)
-
+## W10&13 - Input and outputs 
+pending
 
 ## W11
-Nothing this is machine week you already did The Almost useless machines
+Nothing. This is machine week, we did "the almost useless machines".
 
 ## W12
 No task for this week.
 
-W14 - Networking and communications
-W15 - Interface and application programming
+## W14 - Networking and communications
+pending
+
+## W15 - Interface and application programming
+
+This week we learned about resources and platforms that are used for building interfaces and programming. I got special attention in P5.js, because is very intuitive and accesible for designers and artists. Also i like the open code and free access. For this task I am trying to build a "shooter game", using a youtube tutorial to understand the programming and step by step. 
+
+![](../images/fabacademy/fabtask15_1.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jpssAqAWX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 W16 - Wildcard Week
 W17 - Applications and implications
 W18 - Invention, intellectual property and income
