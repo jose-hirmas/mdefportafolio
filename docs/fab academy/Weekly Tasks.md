@@ -146,9 +146,74 @@ This week we learned about resources and platforms that are used for building in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-jpssAqAWX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-W16 - Wildcard Week
-W17 - Applications and implications
-W18 - Invention, intellectual property and income
+
+## W17 - Applications and implications
+
+During the Master in Design for Emergent Futures, my research has focused on seeking new ways of building relationships and ‘giving voice to agents that usually do not have it’, generating awareness about critical scenarios that affect society. My work includes food culture, art, craftsmanship, migration, generating learning and sharing environments as a source of inspiration for new narratives that can impact education and social development.
+
+The alternative present that has emerged is: SOCIAL FOOD NARRATIVES
+
+What is it?
+
+Social Food Narratives is a research project that gives a new role to food, exploring the meaning behind it, for understanding culture, regenerating communities, and seeking human relationships with the world.
+
+- Exploring food culture for understanding human relationships
+- Creating new ways of bonding with and through food.
+- Redefining the role of food for the future(s)
+
+My final MDEF intervention is : Uan Bier Plis, stories behind brewing.
+This celebrates diverse contexts, people, and cultures around beer brewing, generating awareness about this ancient and present beverage, and seeking new meanings for the futures. Interviews are made to different breweries, master brewers and people related to beer culture around the world.
+
+For this a workshop and an exhibition is done with the collaboration of LEKA. 
+
+**Interviews**
+
+A series of interviews to different master brewers, brewery owners and people related to craft beer. Each interview is conducted by video call or in person depending on the location.
+
+The questions that guide each interview are: - Present yourself. (Who are you?) - Tell the story about this brewery. How and why was born? - What does this beer(s) represent? - If you could make a beer that represents the world right now, how would it be? - What is beer going to mean in the future?
+
+In the last weeks I have contacted more than 20 craft breweries around the world and the interviews are in process.
+
+One specific interview that was special for me was with Canaan Khoury, from Taybeh Bewing Company. This is the only brewery from Palestine. We talked about immigration, challenges of a country that has been in constant war, lifestyle and the future of beer and society. It was meaningful because my ancestors are from Palestine and came to Chile looking for opportunities, so I felt emotional and empathize with the stories behind brewing.
+
+As the interviews are getting done, I am getting fascinated by the stories, different people, and culture, so the next step is to prepare a mini documentary that can show “the stories behind brewing”.
+
+**Exhibition (part of MDEF Fest)**
+
+What: Explore different beer cultures and history of beer.
+
+How: Interviews to different breweries and beer master’s around the world. A canvas will be displayed telling the history and example of techniques and styles. Also, there will be a display of bottles made by workshop participants.
+
+**Workshop (part of MDEF Fest)**
+
+What Construct our personal identities connecting ingredients and raw materials with emotions, interests, and culture.
+
+How Each participant will have the opportunity to choose ingredients and raw materials that represent themselves, putting them together into a bottle or “bottling the identity”. These bottles will be displayed in the event. We will share some experimental beers (with fermented fruits and other), sharing our stories.
+
+Choose the ingredients and fill the bottles (10 min)
+Share each story (30 min)
+Try experimental beers with ingredients.
+Respond: What will the beer mean in the future? (5 min)
+Fermentation (collaboration with LEKA)
+
+As part of my project and generation of communities, I have the opportunity to start co-working with Ivan and Arleny from Leka Restaurant. In this case, we are fermenting different fruits and vegetables using alternative techniques. This fermented results are planned to be part of the beer tasting experience, where we are going to mix them with “dead beer” to experiment new flavors and aromas.
+
+
+## W18 - Invention, intellectual property and income
+
+The plan for continuing this project is:
+- continue interviews 
+- develop a documentary that shows the different cultures about beer. 
+- keep on nourishing my community
+
+I believe in open source, so will be very proud to share the documentary with the community.
+
+
+
+
+
+
+
 
 
 
