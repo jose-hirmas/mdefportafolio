@@ -78,6 +78,11 @@ Our cultures, relationships, tools and rituals are in constant flux. They evolve
 The exhibition is part of MDEF-Fest and will be in LEKA.
 
 
+<iframe src="https://player.vimeo.com/video/725586537?h=9efb0113d6" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/725586537">Uan biar plis, stories behind brewing</a> from <a href="https://vimeo.com/user158249751">Jose Hirmas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
 ## Alternative Present
 
 ### Interventions and Explorations (Summary)
@@ -135,6 +140,8 @@ Social Food Narratives is a research project that gives a new role to food, expl
 -   Creating new ways of bonding with and through food.
 -   Redefining the role of food for the future(s)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DV1d7ibOwa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### **Design Ethics Report: "We shape our beers and thereafter they shape us"**
@@ -219,6 +226,7 @@ My journey continues feeling part of a group of people that are 'not blind' in t
 The alternative meanings of food and the seeking of what is food for the future, is part of my project and the generation of a community is still going on. In concrete, i will focus in beer culture, planning to set a deadline for a documentary about what is behind beer for different people around the world.  By this I am trying to set emerging relations between art as a form of consciousness and social development as the main purpose.
 
 Just for you to know, right now it feels as a mixture of emotions. My soul is attached to the multicultural group of human beings I have been working, studying, reflecting and dreaming with. I will not take this relationships for granted. Thanks.
+
 
 
 
