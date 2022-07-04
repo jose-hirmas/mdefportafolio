@@ -80,10 +80,29 @@ For this task I decided to print a oval shape and spheres that could help me und
 ![](../images/fabacademy/impresion3d_4.jpg)
 
 
-W6 - Electronics design
+## W6 - Electronics design
 
 This week was about electronics, focusing in PCBs design, understanding the use of each component and a introduction to EDA softwares (electronic computer aided design). 
 
+For this task I decided to start following a tutorial to learn the step by step of designing my first PCB, using Fritzing.
+
+The first time using fritizing:
+
+![](../images/fabacademy/tutorialfritzing1.jpg)
+
+Second time trying to do a a led work:
+
+![](../images/fabacademy/tutorialfritzing2.jpg)
+
+Third time seven segment display controlled by shift register:
+
+![](../images/fabacademy/tutorialfritzing3.jpg)
+
+and this is how it should look like in the final masterpiece:
+
+![](../images/fabacademy/tutorialfritzing4.jpg)
+
+The tutorial link used was: <https://www.youtube.com/watch?app=desktop&v=K7Y9bKilCxg>
 
 
 ## W7 - Computer controlled machining 
