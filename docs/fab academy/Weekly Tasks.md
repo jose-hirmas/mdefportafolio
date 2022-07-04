@@ -86,20 +86,16 @@ This week was about electronics, focusing in PCBs design, understanding the use 
 
 For this task I decided to start following a tutorial to learn the step by step of designing my first PCB, using Fritzing.
 
-The first time using fritizing:
-
+The first time using fritzing:
 ![](../images/fabacademy/tutorialfritzing1.jpg)
 
 Second time trying to do a a led work:
-
 ![](../images/fabacademy/tutorialfritzing2.jpg)
 
 Third time seven segment display controlled by shift register:
-
 ![](../images/fabacademy/tutorialfritzing3.jpg)
 
 and this is how it should look like in the final masterpiece:
-
 ![](../images/fabacademy/tutorialfritzing4.jpg)
 
 The tutorial link used was: <https://www.youtube.com/watch?app=desktop&v=K7Y9bKilCxg>
@@ -148,11 +144,6 @@ This week I used to task to continue my project about food design, helping me un
 ## W10&13 - Input and outputs 
 pending
 
-## W11
-Nothing. This is machine week, we did "the almost useless machines".
-
-## W12
-No task for this week.
 
 ## W14 - Networking and communications
 pending
@@ -164,6 +155,9 @@ This week we learned about resources and platforms that are used for building in
 ![](../images/fabacademy/fabtask15_1.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-jpssAqAWX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## W16 - Wildcard Week
+
 
 
 ## W17 - Applications and implications
