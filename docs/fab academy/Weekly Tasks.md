@@ -146,7 +146,11 @@ pending
 
 
 ## W14 - Networking and communications
-pending
+
+This week we were introduced to networks and communication protocols for connecting systems due to location, paralelism, modularity and interference. I liked the metaphor about the onion and is layers to understand this concepts.
+
+
+
 
 ## W15 - Interface and application programming
 
@@ -212,6 +216,49 @@ Fermentation (collaboration with LEKA)
 As part of my project and generation of communities, I have the opportunity to start co-working with Ivan and Arleny from Leka Restaurant. In this case, we are fermenting different fruits and vegetables using alternative techniques. This fermented results are planned to be part of the beer tasting experience, where we are going to mix them with “dead beer” to experiment new flavors and aromas.
 
 
+- What will it do?
+
+Experimenting with beer fabrication and exhibiting part of my research.
+
+- Who’s done what beforehand?
+
+Master brewers and local craft breweries.
+
+- What will you design?
+
+An experience that involves sensing and reflecting about our identities, speculating about the meaning of beer for the futures.
+
+- What materials and components will be used?
+
+"Dead beer", fermentation tecniques, glasses, bottles, basic ingredientes and spices. 
+
+- Where will it come from?
+
+Exhibition of beer are from 4 places around the world: Punta Arenas-Chilean Patagonia, Taybeh-Palestine, Chimay-Belgium and Tallin-Estonia.
+
+- How much will they cost?
+
+I expend 50-60 euros. 
+
+- What parts and systems will be made?
+
+The workshop that has different stages, from sensing to reflecting.
+
+- What processes will be used?
+
+Design thinking, First Person Perspective, Speculative design.
+
+- What questions need to be answered?
+
+Who are you? Where you come from? What is the meaning of beer for the future? What if beer is a trigger for empathy and social development?
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/725586537?h=9efb0113d6" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+- How will it be evaluated?
+
+Focus group and conversations with participants. 
+
+
 ## W18 - Invention, intellectual property and income
 
 The plan for continuing this project is:
@@ -220,6 +267,32 @@ The plan for continuing this project is:
 - keep on nourishing my community
 
 I believe in open source, so will be very proud to share the documentary with the community.
+
+During the last term of MDEF, with some classmates we started talking about how to continue our journey together and as time went by, this idea became stronger. So, we set a weekly meeting for discussing our common purpose and sharing our personal dreams, which emerged into a design collective: Moving Works Collective
+
+*What?*
+We are a collective of multidisciplinary creatives, thinking and doing “crazy stuff” that generates positive effects for society. (By “crazy stuff”’ we mean: alternative presents we love and what the world needs)
+
+*Why?*
+We believe in human beings as a force of good ( social value) starting from local solutions to scalable realities (ecological value), sharing knowledge and with a multidisciplinary scope (joining forces). We have a curious mindset, seeking alternatives beyond our boundaries ( exploration and playfulness), with transparency and open-sourcing for democratizing design (open by default”).
+
+*Who?*
+Beings that share a common purpose and values, and we enjoy working with: Joaquin Rosas, Christian Ernst, Roberto Broce and José Hirmas (me).
+
+*How?*
+Honesty: Well-meaning and radically open communication is key. If there are issues, we are not afraid of naming them. Transparency results in accountability; honesty fosters friendships.
+
+Care: We do this because we love to do it, we care. Build mindfully and with care, take time to be slow. Don’t move fast if there might be things to break or people to hurt.
+
+Critical Thinking: We never settle for “we’ve always done it like that”. Wherever possible, question the status quo and develop new paradigms.
+
+Distributed: Think global, act local. We are able to work from everywhere, at any time, with everyone. Global citizens with their feet in the midst of local communities.
+
+Playfulness: We are kids at heart. Curiosity is the driver of creativity. We believe this is the only way to face uncertainty and rapid change.
+
+*2022 Plan*: For this year we are planning in participating in some design festivals and doing specific exhibitions, and continue developing projects around the topics of technology, education, social development, arts, design and new materials.
+
+
 
 
 
