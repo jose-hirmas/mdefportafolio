@@ -141,7 +141,21 @@ This week I used to task to continue my project about food design, helping me un
 ![](../images/fabacademy/fabtask9_10.jpg)
 
 
-## W10&13 - Input and outputs 
+## W10&13 - Outputs and inputs 
+
+Outputs:
+
+During this week we review electricity concepts and different output devices: electromagnetism, motors, dc motors, electroluminescence, piezoelectric. We also review signal types and i was very inspired by the example of project "selfie plant", using Arduino.
+
+Also, we have access to a DIY output library with some fun examples: https://fablabbcn-projects.gitlab.io/learning/fabacademy-local-docs/material/extras/outputs/diy/
+
+
+Inputs:
+
+During this week we ere introduced to iunput devices: What is a sensor, sensor types, how to choose them. Theory, applications and examples. How to build your own DIY sensors that you can build at home with household materials. Make stuff with your signals to detect events.
+
+I liked the Arduino movement because of the mindset of openess, free and accesible. This is the link of Fab Lab Barcelona class: https://speakerdeck.com/pral2a/arduino-an-introduction-updated?slide=11
+
 
 ## Week 11
 Nothing this is machine week you already did The Almost useless machines
