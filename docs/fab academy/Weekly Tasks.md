@@ -142,7 +142,8 @@ This week I used to task to continue my project about food design, helping me un
 
 
 ## W10&13 - Input and outputs 
-pending
+
+
 
 
 ## W14 - Networking and communications
@@ -162,6 +163,11 @@ This week we learned about resources and platforms that are used for building in
 
 ## W16 - Wildcard Week
 
+I organized an event as the final part of the master, The MDEF Awards. This event was about nominating the class 21'-22' for different categories and prizes, as an excuse for continuing sharing together and making a mental journey through the best moments of the master. 
+
+For this, i designed special medals that design special medals in order to recognize my classmates. The medals will be cut with the laser cutter using acrylic or some type of plain wood.
+
+![](../images/fabacademy/fabtask16_1.jpg)
 
 
 ## W17 - Applications and implications

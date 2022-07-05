@@ -32,7 +32,6 @@ For the beer final output, the research includes understanding the crafting proc
 
 ![](../images/fabacademy/fabch4_1.jpg)
 
-
 **In this repository link you can see all the documentation of the process and final results: <https://github.com/jose-hirmas/fabchallenge4>**
 
 
