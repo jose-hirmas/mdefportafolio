@@ -143,15 +143,21 @@ This week I used to task to continue my project about food design, helping me un
 
 ## W10&13 - Input and outputs 
 
+## Week 11
+Nothing this is machine week you already did The Almost useless machines
 
-
+## Week 12
+This is easter break enjoy your holidays
 
 ## W14 - Networking and communications
 
 This week we were introduced to networks and communication protocols for connecting systems due to location, paralelism, modularity and interference. I liked the metaphor about the onion and is layers to understand this concepts.
 
+For me the most interesting thing is the concept behind networks, as part of my project has been about researching about new relationships between humans, non humans and to "give voice to agents that usually do not have"
 
+This picture is about a project i am developing about how gravity expresses itself, showing a final piece of art or the "network of blue dots".
 
+![](../images/fabacademy/fabtask14_1.jpg)
 
 ## W15 - Interface and application programming
 
