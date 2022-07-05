@@ -157,12 +157,6 @@ During this week we ere introduced to iunput devices: What is a sensor, sensor t
 I liked the Arduino movement because of the mindset of openess, free and accesible. This is the link of Fab Lab Barcelona class: https://speakerdeck.com/pral2a/arduino-an-introduction-updated?slide=11
 
 
-## Week 11
-Nothing this is machine week you already did The Almost useless machines
-
-## Week 12
-This is easter break enjoy your holidays
-
 ## W14 - Networking and communications
 
 This week we were introduced to networks and communication protocols for connecting systems due to location, paralelism, modularity and interference. I liked the metaphor about the onion and is layers to understand this concepts.
