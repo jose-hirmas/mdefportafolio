@@ -30,7 +30,7 @@ Using machine learning we could program a software that allows us to categorize 
 
 For the beer final output, the research includes understanding the crafting process and selecting the the exact mix and amount of ingredients that make the beer unique an special, according to each identity.
 
-![](../images/fabacademy/fabch4_1.jpg)
+![](../images/fabacademy/sketch1.jpg)
 
 **In this repository link you can see all the documentation of the process and final results: <https://github.com/jose-hirmas/fabchallenge4>**
 
